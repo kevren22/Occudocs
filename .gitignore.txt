@@ -2,7 +2,4 @@ myvenv
 *.pyc
 .DS_Store
 .env
-._.gitignore.txt
-._OccudocsData.py
-._occupation_Cleaned.xlsx
-._occupation_raw.xlsx
+._*
