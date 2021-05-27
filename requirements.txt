@@ -1,6 +1,6 @@
 alabaster==0.7.12
 anaconda-client==1.7.2
-anaconda-navigator==1.10.0
+anaconda-navigator==2.0.3
 anaconda-project==0.8.3
 appdirs==1.4.4
 applaunchservices==0.2.1
@@ -38,9 +38,11 @@ click==7.1.2
 cloudpickle @ file:///tmp/build/80754af9/cloudpickle_1598884132938/work
 clyent==1.2.2
 colorama @ file:///tmp/build/80754af9/colorama_1603211150991/work
-conda==4.9.2
+conda==4.10.1
 conda-build==3.20.5
 conda-package-handling @ file:///opt/concourse/worker/volumes/live/a7e34989-4c54-4cb6-4156-4e58ee270730/volume/conda-package-handling_1603018121300/work
+conda-repo-cli @ file:///tmp/build/80754af9/conda-repo-cli_1611347565866/work
+conda-token @ file:///tmp/build/80754af9/conda-token_1613597706833/work
 conda-verify==3.4.2
 contextlib2==0.6.0.post1
 cryptography @ file:///opt/concourse/worker/volumes/live/aeb63a26-659e-4edb-5405-74ba8e0c76f2/volume/cryptography_1601046839724/work
@@ -54,6 +56,7 @@ dash-html-components==1.1.2
 dash-renderer==1.9.0
 dash-table==4.11.2
 dask @ file:///tmp/build/80754af9/dask-core_1602083700509/work
+datasist==1.5.3
 decorator==4.4.2
 defusedxml==0.6.0
 diff-match-patch @ file:///tmp/build/80754af9/diff-match-patch_1594828741838/work
@@ -67,6 +70,7 @@ filelock==3.0.12
 flake8 @ file:///tmp/build/80754af9/flake8_1601911421857/work
 Flask==1.1.2
 Flask-Compress==1.9.0
+Flask-Login==0.5.0
 Flask-SeaSurf==0.3.0
 fsspec @ file:///tmp/build/80754af9/fsspec_1602684995936/work
 future==0.18.2
@@ -74,7 +78,7 @@ gevent @ file:///opt/concourse/worker/volumes/live/e6b243ce-c4b8-40bb-4934-ef3bf
 glob2==0.7
 gmpy2==2.0.8
 greenlet @ file:///opt/concourse/worker/volumes/live/02d5d57d-1f11-4cf9-580a-19e679c78dc9/volume/greenlet_1600874049903/work
-gunicorn==20.0.4
+gunicorn==20.1.0
 h5py==2.10.0
 HeapDict==1.0.1
 html5lib @ file:///tmp/build/80754af9/html5lib_1593446221756/work
