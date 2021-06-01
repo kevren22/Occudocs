@@ -8,11 +8,11 @@ import plotly.graph_objs as go
 app = dash.Dash()
 server = app.server
 
-df1 = pd.read_csv('CSV/occupation_Cleaned_1-2.csv').dropna()
-df2 = pd.read_csv('CSV/occupation_Cleaned_1-7.csv').dropna()
-df3 = pd.read_csv('CSV/occupation_Cleaned_1-10.csv').dropna()
-df4 = pd.read_csv('CSV/occupation_Cleaned_5-3.csv').dropna()
-df5 = pd.read_csv('CSV/occupation_Cleaned_5-4.csv').dropna()
+df1 = pd.read_csv('occupation_Cleaned_1-2.csv').dropna()
+df2 = pd.read_csv('occupation_Cleaned_1-7.csv').dropna()
+df3 = pd.read_csv('occupation_Cleaned_1-10.csv').dropna()
+df4 = pd.read_csv('occupation_Cleaned_5-3.csv').dropna()
+df5 = pd.read_csv('occupation_Cleaned_5-4.csv').dropna()
 
 df2['MedWage'].replace('>=$208,000',208000,inplace=True)
 
