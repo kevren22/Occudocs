@@ -4,3 +4,4 @@ myvenv
 .env
 ._*
 .venv
+~$occupation_Cleaned.xlsx
