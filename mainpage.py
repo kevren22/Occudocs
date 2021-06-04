@@ -10,6 +10,7 @@ from datahandling import df2, dfgraph, categories
 BS = 'https://cdn.jsdelivr.net/npm/bootswatch@4.5.2/dist/darkly/bootstrap.min.css'
 
 app = Dash(__name__, external_stylesheets=[BS])
+server = app.server
 
 data = go.Scatter(x=dfgraph['ChgNum'][1:],y=dfgraph['ChgPct'][1:],mode='markers',
                   text=dfgraph['Title'][1:],
@@ -23,6 +24,6 @@ layout = go.Layout(title='Percentage vs Numeric Change of Jobs',
 fig = go.Figure(data=data,layout=layout)
 
 app.layout = html.Div([
-    dcc.Dropdown(id='Category',options=categories,value=categories[0]),
-    dcc.Graph(id='graph')
+    #dcc.Dropdown(id='Category',options=categories,value=categories[0]),
+    dcc.Graph(id='graph', figure=fig)
 ])
