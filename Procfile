@@ -1,1 +1,1 @@
-web:gunicorn Occudocs:server
+web: gunicorn Occudocs:server
