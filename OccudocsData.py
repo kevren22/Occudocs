@@ -29,7 +29,7 @@ layout = go.Layout(title='Percentage vs Numeric Change of Jobs',
                    )
 
 fig = go.Figure(data=data,layout=layout)
-
+ 
 app.layout = html.Div([
     
 ])
