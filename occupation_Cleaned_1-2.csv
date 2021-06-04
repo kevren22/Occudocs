@@ -1,0 +1,1050 @@
+﻿Title,Code,Type,2019EmpNum,2029EmpProjNum,2019Dist,2029ProjDist,10yrChgNum,10yrChgPct, AnnAvgOpens 
+"Total, all occupations",00-0000,Summary,162795.60,168834.70,100.00,100.00,6039.20,3.70,17454.30
+Management occupations,11-0000,Summary,10697.20,11202.20,6.60,6.60,505.00,4.70,843.00
+Top executives,11-1000,Summary,2828.00,2946.30,1.70,1.70,118.30,4.20,222.20
+Chief executives,11-1011,Line item,287.90,259.10,0.20,0.20,-28.70,-10.00,13.90
+General and operations managers,11-1021,Line item,2486.40,2630.20,1.50,1.60,143.80,5.80,204.40
+Legislators,11-1031,Line item,53.70,57.00,0.00,0.00,3.30,6.20,3.90
+"Advertising, marketing, promotions, public relations, and sales managers",11-2000,Summary,836.70,879.00,0.50,0.50,42.30,5.10,70.00
+Advertising and promotions managers,11-2011,Line item,28.60,28.30,0.00,0.00,-0.30,-1.10,2.50
+Marketing and sales managers,11-2020,Summary,720.10,754.60,0.40,0.40,34.50,4.80,59.90
+Marketing managers,11-2021,Line item,286.30,305.40,0.20,0.20,19.10,6.70,24.60
+Sales managers,11-2022,Line item,433.80,449.20,0.30,0.30,15.40,3.50,35.30
+Public relations and fundraising managers,11-2030,Line item,88.00,96.10,0.10,0.10,8.10,9.20,7.60
+Operations specialties managers,11-3000,Summary,2116.60,2316.60,1.30,1.40,200.00,9.40,168.50
+Administrative services and facilities managers,11-3010,Line item,325.90,347.00,0.20,0.20,21.20,6.50,26.30
+Computer and information systems managers,11-3021,Line item,461.00,509.20,0.30,0.30,48.10,10.40,36.80
+Financial managers,11-3031,Line item,697.90,806.00,0.40,0.50,108.10,15.50,59.60
+Industrial production managers,11-3051,Line item,190.10,191.90,0.10,0.10,1.70,0.90,11.70
+Purchasing managers,11-3061,Line item,76.90,78.90,0.00,0.00,2.00,2.60,5.60
+"Transportation, storage, and distribution managers",11-3071,Line item,139.40,144.30,0.10,0.10,4.90,3.50,10.00
+Compensation and benefits managers,11-3111,Line item,18.00,18.40,0.00,0.00,0.50,2.50,1.30
+Human resources managers,11-3121,Line item,165.20,175.60,0.10,0.10,10.40,6.30,13.30
+Training and development managers,11-3131,Line item,42.30,45.40,0.00,0.00,3.10,7.30,3.70
+Other management occupations,11-9000,Summary,4915.90,5060.30,3.00,3.00,144.40,2.90,382.30
+"Farmers, ranchers, and other agricultural managers",11-9013,Line item,952.30,890.60,0.60,0.50,-61.60,-6.50,80.90
+Construction managers,11-9021,Line item,476.70,517.10,0.30,0.30,40.40,8.50,34.70
+Education and childcare administrators,11-9030,Summary,595.10,618.20,0.40,0.40,23.10,3.90,42.00
+"Education and childcare administrators, preschool and daycare",11-9031,Line item,69.20,69.90,0.00,0.00,0.70,1.00,4.60
+"Education administrators, kindergarten through secondary",11-9032,Line item,283.20,294.40,0.20,0.20,11.10,3.90,20.00
+"Education administrators, postsecondary",11-9033,Line item,190.50,197.60,0.10,0.10,7.10,3.70,13.40
+"Education administrators, all other",11-9039,Line item,52.10,56.40,0.00,0.00,4.20,8.10,4.00
+Architectural and engineering managers,11-9041,Line item,198.10,203.20,0.10,0.10,5.10,2.60,12.50
+Food service managers,11-9051,Line item,352.60,354.80,0.20,0.20,2.20,0.60,34.80
+Gambling managers,11-9071,Line item,5.10,5.60,0.00,0.00,0.50,8.80,0.60
+Lodging managers,11-9081,Line item,57.20,50.60,0.00,0.00,-6.70,-11.70,4.50
+Medical and health services managers,11-9111,Line item,422.30,555.50,0.30,0.30,133.20,31.50,47.00
+Natural sciences managers,11-9121,Line item,71.40,74.80,0.00,0.00,3.40,4.80,4.90
+Postmasters and mail superintendents,11-9131,Line item,13.40,10.50,0.00,0.00,-2.90,-21.90,0.50
+"Property, real estate, and community association managers",11-9141,Line item,367.90,368.70,0.20,0.20,0.80,0.20,26.00
+Social and community service managers,11-9151,Line item,175.50,205.40,0.10,0.10,29.80,17.00,17.10
+Emergency management directors,11-9161,Line item,10.40,10.90,0.00,0.00,0.50,4.50,0.70
+Funeral home managers,11-9171,Line item,28.60,26.90,0.00,0.00,-1.60,-5.70,1.60
+"Personal service managers, all other; entertainment and recreation managers, except gambling; and managers, all other",11-9198,Line item,1189.20,1167.50,0.70,0.70,-21.70,-1.80,74.50
+Business and financial operations occupations,13-0000,Summary,9016.30,9492.50,5.50,5.60,476.20,5.30,813.00
+Business operations specialists,13-1000,Summary,5944.00,6311.90,3.70,3.70,367.90,6.20,561.70
+"Agents and business managers of artists, performers, and athletes",13-1011,Line item,21.90,24.40,0.00,0.00,2.60,11.80,2.70
+Buyers and purchasing agents,13-1020,Line item,449.30,409.70,0.30,0.20,-39.70,-8.80,36.00
+"Claims adjusters, appraisers, examiners, and investigators",13-1030,Summary,348.80,326.80,0.20,0.20,-22.00,-6.30,22.10
+"Claims adjusters, examiners, and investigators",13-1031,Line item,332.90,311.50,0.20,0.20,-21.40,-6.40,21.00
+"Insurance appraisers, auto damage",13-1032,Line item,15.90,15.30,0.00,0.00,-0.60,-4.00,1.10
+Compliance officers,13-1041,Line item,337.60,353.20,0.20,0.20,15.60,4.60,27.70
+Cost estimators,13-1051,Line item,214.20,211.00,0.10,0.10,-3.20,-1.50,17.50
+Human resources workers,13-1070,Summary,746.20,787.80,0.50,0.50,41.60,5.60,70.70
+Human resources specialists,13-1071,Line item,666.50,713.50,0.40,0.40,46.90,7.00,64.50
+Farm labor contractors,13-1074,Line item,0.80,0.90,0.00,0.00,0.10,10.40,0.10
+Labor relations specialists,13-1075,Line item,78.90,73.50,0.00,0.00,-5.40,-6.80,6.10
+Logisticians,13-1081,Line item,188.20,196.40,0.10,0.10,8.20,4.40,16.80
+Management analysts,13-1111,Line item,876.30,970.20,0.50,0.60,93.80,10.70,87.10
+"Meeting, convention, and event planners",13-1121,Line item,138.60,149.50,0.10,0.10,10.80,7.80,15.20
+Fundraisers,13-1131,Line item,100.60,115.00,0.10,0.10,14.40,14.30,11.10
+"Compensation, benefits, and job analysis specialists",13-1141,Line item,94.40,101.80,0.10,0.10,7.50,7.90,9.00
+Training and development specialists,13-1151,Line item,327.90,356.10,0.20,0.20,28.20,8.60,33.70
+Market research analysts and marketing specialists,13-1161,Line item,738.10,868.40,0.50,0.50,130.30,17.70,84.20
+"Project management specialists and business operations specialists, all other",13-1198,Line item,1361.80,1441.60,0.80,0.90,79.80,5.90,128.00
+Financial specialists,13-2000,Summary,3072.30,3180.60,1.90,1.90,108.30,3.50,251.30
+Accountants and auditors,13-2011,Line item,1436.10,1497.90,0.90,0.90,61.70,4.30,125.70
+Property appraisers and assessors,13-2020,Line item,75.10,77.30,0.00,0.00,2.20,2.90,5.40
+Budget analysts,13-2031,Line item,55.40,57.30,0.00,0.00,1.90,3.40,4.30
+Credit analysts,13-2041,Line item,74.90,71.20,0.00,0.00,-3.60,-4.80,5.30
+Personal financial advisors,13-2052,Line item,263.00,274.60,0.20,0.20,11.60,4.40,19.20
+Insurance underwriters,13-2053,Line item,114.70,107.60,0.10,0.10,-7.10,-6.20,7.30
+Financial examiners,13-2061,Line item,66.90,71.80,0.00,0.00,4.90,7.30,4.90
+Credit counselors and loan officers,13-2070,Summary,352.40,365.20,0.20,0.20,12.80,3.60,27.10
+Credit counselors,13-2071,Line item,35.60,38.30,0.00,0.00,2.70,7.60,2.90
+Loan officers,13-2072,Line item,316.90,327.00,0.20,0.20,10.10,3.20,24.20
+"Tax examiners, collectors and preparers, and revenue agents",13-2080,Summary,146.10,143.10,0.10,0.10,-2.90,-2.00,13.30
+"Tax examiners and collectors, and revenue agents",13-2081,Line item,57.60,55.30,0.00,0.00,-2.40,-4.10,4.20
+Tax preparers,13-2082,Line item,88.40,87.90,0.10,0.10,-0.60,-0.60,9.10
+"Financial and investment analysts, financial risk specialists, and financial specialists, all other",13-2098,Line item,487.80,514.60,0.30,0.30,26.80,5.50,38.60
+Computer and mathematical occupations,15-0000,Summary,4845.10,5432.40,3.00,3.20,587.40,12.10,382.90
+Computer occupations,15-1200,Summary,4633.40,5164.60,2.80,3.10,531.20,11.50,362.60
+Computer and information analysts,15-1210,Summary,763.40,850.80,0.50,0.50,87.50,11.50,60.00
+Computer systems analysts,15-1211,Line item,632.40,679.00,0.40,0.40,46.60,7.40,46.20
+Information security analysts,15-1212,Line item,131.00,171.90,0.10,0.10,40.90,31.20,13.90
+Computer and information research scientists,15-1221,Line item,32.70,37.70,0.00,0.00,5.00,15.40,3.00
+Computer support specialists,15-1230,Summary,882.30,949.60,0.50,0.60,67.30,7.60,68.40
+Computer network support specialists,15-1231,Line item,195.10,207.70,0.10,0.10,12.60,6.40,14.80
+Computer user support specialists,15-1232,Line item,687.20,741.90,0.40,0.40,54.80,8.00,53.60
+Database and network administrators and architects,15-1240,Summary,666.50,703.30,0.40,0.40,36.90,5.50,43.70
+Computer network architects,15-1241,Line item,160.10,168.10,0.10,0.10,8.00,5.00,10.00
+Network and computer systems administrators,15-1244,Line item,373.90,389.90,0.20,0.20,16.00,4.30,23.80
+Database administrators and architects,15-1245,Line item,132.50,145.30,0.10,0.10,12.80,9.70,9.90
+"Software and web developers, programmers, and testers",15-1250,Summary,1857.40,2167.30,1.10,1.30,309.90,16.70,155.20
+Computer programmers,15-1251,Line item,213.90,193.80,0.10,0.10,-20.10,-9.40,10.40
+Software developers and software quality assurance analysts and testers,15-1256,Line item,1469.20,1785.20,0.90,1.10,316.00,21.50,131.40
+Web developers and digital interface designers,15-1257,Line item,174.30,188.30,0.10,0.10,14.00,8.00,13.40
+"Computer occupations, all other",15-1299,Line item,431.10,455.80,0.30,0.30,24.70,5.70,32.30
+Mathematical science occupations,15-2000,Summary,211.70,267.80,0.10,0.20,56.10,26.50,20.20
+Actuaries,15-2011,Line item,27.70,32.60,0.00,0.00,4.90,17.60,2.00
+Mathematicians,15-2021,Line item,2.90,3.00,0.00,0.00,0.10,3.00,0.20
+Operations research analysts,15-2031,Line item,105.10,131.30,0.10,0.10,26.10,24.80,9.60
+Statisticians,15-2041,Line item,42.70,57.50,0.00,0.00,14.80,34.60,4.90
+"Data scientists and mathematical science occupations, all other",15-2098,Line item,33.20,43.40,0.00,0.00,10.30,30.90,3.60
+Architecture and engineering occupations,17-0000,Summary,2728.90,2803.70,1.70,1.70,74.80,2.70,193.60
+"Architects, surveyors, and cartographers",17-1000,Summary,214.30,216.00,0.10,0.10,1.80,0.80,14.80
+"Architects, except naval",17-1010,Summary,154.40,154.80,0.10,0.10,0.50,0.30,10.20
+"Architects, except landscape and naval",17-1011,Line item,129.90,130.90,0.10,0.10,1.10,0.80,8.70
+Landscape architects,17-1012,Line item,24.50,23.90,0.00,0.00,-0.60,-2.40,1.50
+"Surveyors, cartographers, and photogrammetrists",17-1020,Summary,59.90,61.20,0.00,0.00,1.30,2.10,4.60
+Cartographers and photogrammetrists,17-1021,Line item,12.00,12.50,0.00,0.00,0.50,4.50,0.90
+Surveyors,17-1022,Line item,48.00,48.70,0.00,0.00,0.80,1.60,3.60
+Engineers,17-2000,Summary,1810.10,1879.10,1.10,1.10,69.00,3.80,117.50
+Aerospace engineers,17-2011,Line item,66.40,68.20,0.00,0.00,1.90,2.80,3.90
+Agricultural engineers,17-2021,Line item,1.70,1.70,0.00,0.00,0.00,1.60,0.10
+Bioengineers and biomedical engineers,17-2031,Line item,21.20,22.20,0.00,0.00,1.00,4.70,1.40
+Chemical engineers,17-2041,Line item,32.60,34.00,0.00,0.00,1.40,4.40,2.00
+Civil engineers,17-2051,Line item,329.20,334.70,0.20,0.20,5.50,1.70,22.90
+Computer hardware engineers,17-2061,Line item,71.10,72.20,0.00,0.00,1.10,1.60,4.90
+Electrical and electronics engineers,17-2070,Summary,328.10,338.90,0.20,0.20,10.80,3.30,20.70
+Electrical engineers,17-2071,Line item,193.10,202.10,0.10,0.10,9.00,4.60,12.50
+"Electronics engineers, except computer",17-2072,Line item,134.90,136.80,0.10,0.10,1.90,1.40,8.20
+Environmental engineers,17-2081,Line item,55.80,57.60,0.00,0.00,1.70,3.10,3.70
+"Industrial engineers, including health and safety",17-2110,Summary,322.30,353.30,0.20,0.20,31.00,9.60,23.00
+"Health and safety engineers, except mining safety engineers and inspectors",17-2111,Line item,26.40,27.50,0.00,0.00,1.00,3.90,1.70
+Industrial engineers,17-2112,Line item,295.80,325.80,0.20,0.20,30.00,10.10,21.30
+Marine engineers and naval architects,17-2121,Line item,11.80,12.00,0.00,0.00,0.20,1.50,0.60
+Materials engineers,17-2131,Line item,27.50,27.90,0.00,0.00,0.40,1.50,1.50
+Mechanical engineers,17-2141,Line item,316.30,328.70,0.20,0.20,12.40,3.90,19.20
+"Mining and geological engineers, including mining safety engineers",17-2151,Line item,6.30,6.60,0.00,0.00,0.30,4.20,0.40
+Nuclear engineers,17-2161,Line item,16.40,14.30,0.00,0.00,-2.10,-12.60,0.70
+Petroleum engineers,17-2171,Line item,33.40,34.40,0.00,0.00,1.10,3.20,2.10
+"Engineers, all other",17-2199,Line item,170.10,172.30,0.10,0.10,2.20,1.30,10.30
+"Drafters, engineering technicians, and mapping technicians",17-3000,Summary,704.60,708.60,0.40,0.40,4.00,0.60,61.30
+Drafters,17-3010,Summary,200.90,193.70,0.10,0.10,-7.10,-3.50,16.40
+Architectural and civil drafters,17-3011,Line item,102.90,100.30,0.10,0.10,-2.60,-2.50,8.50
+Electrical and electronics drafters,17-3012,Line item,25.30,25.40,0.00,0.00,0.10,0.50,2.20
+Mechanical drafters,17-3013,Line item,57.50,52.70,0.00,0.00,-4.70,-8.30,4.30
+"Drafters, all other",17-3019,Line item,15.20,15.30,0.00,0.00,0.10,0.60,1.30
+"Engineering technologists and technicians, except drafters",17-3020,Summary,353.70,362.50,0.20,0.20,8.80,2.50,30.60
+Aerospace engineering and operations technologists and technicians,17-3021,Line item,11.90,12.70,0.00,0.00,0.80,7.00,1.10
+Civil engineering technologists and technicians,17-3022,Line item,70.90,72.70,0.00,0.00,1.80,2.50,6.10
+Electrical and electronic engineering technologists and technicians,17-3023,Line item,125.80,127.80,0.10,0.10,1.90,1.50,10.70
+Electro-mechanical and mechatronics technologists and technicians,17-3024,Line item,14.60,15.10,0.00,0.00,0.40,3.00,1.30
+Environmental engineering technologists and technicians,17-3025,Line item,18.50,19.90,0.00,0.00,1.40,7.50,1.70
+Industrial engineering technologists and technicians,17-3026,Line item,68.50,69.50,0.00,0.00,1.00,1.50,5.80
+Mechanical engineering technologists and technicians,17-3027,Line item,43.50,44.90,0.00,0.00,1.40,3.10,3.80
+Surveying and mapping technicians,17-3031,Line item,58.40,58.80,0.00,0.00,0.40,0.70,6.40
+"Calibration technologists and technicians and engineering technologists and technicians, except drafters, all other",17-3098,Line item,91.60,93.60,0.10,0.10,2.00,2.10,7.90
+"Life, physical, and social science occupations",19-0000,Summary,1460.30,1528.50,0.90,0.90,68.20,4.70,126.90
+Life scientists,19-1000,Summary,344.80,361.40,0.20,0.20,16.60,4.80,29.20
+Agricultural and food scientists,19-1010,Summary,34.80,36.80,0.00,0.00,2.00,5.70,3.60
+Animal scientists,19-1011,Line item,2.80,3.00,0.00,0.00,0.20,5.50,0.30
+Food scientists and technologists,19-1012,Line item,14.20,14.90,0.00,0.00,0.60,4.40,1.40
+Soil and plant scientists,19-1013,Line item,17.80,19.00,0.00,0.00,1.20,6.80,1.90
+Biological scientists,19-1020,Summary,120.60,124.40,0.10,0.10,3.80,3.20,10.00
+Biochemists and biophysicists,19-1021,Line item,34.60,36.00,0.00,0.00,1.40,4.00,2.90
+Microbiologists,19-1022,Line item,20.20,20.90,0.00,0.00,0.60,3.10,1.70
+Zoologists and wildlife biologists,19-1023,Line item,21.00,21.80,0.00,0.00,0.80,3.90,1.80
+"Biological scientists, all other",19-1029,Line item,44.70,45.70,0.00,0.00,1.00,2.20,3.60
+Conservation scientists and foresters,19-1030,Summary,36.10,37.80,0.00,0.00,1.70,4.70,3.30
+Conservation scientists,19-1031,Line item,24.50,25.80,0.00,0.00,1.20,5.10,2.30
+Foresters,19-1032,Line item,11.60,12.00,0.00,0.00,0.40,3.80,1.10
+Medical scientists,19-1040,Summary,146.20,155.00,0.10,0.10,8.80,6.00,11.80
+Epidemiologists,19-1041,Line item,8.00,8.30,0.00,0.00,0.40,4.60,0.60
+"Medical scientists, except epidemiologists",19-1042,Line item,138.30,146.70,0.10,0.10,8.40,6.10,11.20
+"Life scientists, all other",19-1099,Line item,7.00,7.40,0.00,0.00,0.30,4.60,0.60
+Physical scientists,19-2000,Summary,276.60,291.40,0.20,0.20,14.70,5.30,24.30
+Astronomers and physicists,19-2010,Summary,20.50,21.90,0.00,0.00,1.40,6.80,1.40
+Astronomers,19-2011,Line item,2.30,2.40,0.00,0.00,0.10,2.40,0.10
+Physicists,19-2012,Line item,18.20,19.50,0.00,0.00,1.30,7.30,1.30
+Atmospheric and space scientists,19-2021,Line item,9.90,10.60,0.00,0.00,0.60,6.40,0.90
+Chemists and materials scientists,19-2030,Summary,93.70,98.00,0.10,0.10,4.30,4.60,7.90
+Chemists,19-2031,Line item,86.70,90.80,0.10,0.10,4.10,4.70,7.30
+Materials scientists,19-2032,Line item,7.00,7.20,0.00,0.00,0.20,3.40,0.60
+Environmental scientists and geoscientists,19-2040,Summary,129.70,138.80,0.10,0.10,9.00,7.00,12.50
+"Environmental scientists and specialists, including health",19-2041,Line item,90.90,98.00,0.10,0.10,7.10,7.80,8.90
+"Geoscientists, except hydrologists and geographers",19-2042,Line item,31.80,33.40,0.00,0.00,1.60,4.90,3.00
+Hydrologists,19-2043,Line item,7.00,7.30,0.00,0.00,0.40,5.30,0.70
+"Physical scientists, all other",19-2099,Line item,22.80,22.10,0.00,0.00,-0.70,-3.00,1.50
+Social scientists and related workers,19-3000,Summary,326.90,340.80,0.20,0.20,13.90,4.30,24.20
+Economists,19-3011,Line item,20.50,23.50,0.00,0.00,2.90,14.10,1.60
+Survey researchers,19-3022,Line item,12.20,11.70,0.00,0.00,-0.40,-3.70,1.10
+Psychologists,19-3030,Summary,192.30,198.10,0.10,0.10,5.70,3.00,11.80
+"Clinical, counseling, and school psychologists",19-3031,Line item,171.50,176.70,0.10,0.10,5.30,3.10,10.50
+Industrial-organizational psychologists,19-3032,Line item,1.10,1.10,0.00,0.00,0.00,2.50,0.10
+"Psychologists, all other",19-3039,Line item,19.80,20.20,0.00,0.00,0.40,2.30,1.20
+Sociologists,19-3041,Line item,3.20,3.30,0.00,0.00,0.10,3.60,0.30
+Urban and regional planners,19-3051,Line item,39.70,44.10,0.00,0.00,4.40,11.00,3.70
+Miscellaneous social scientists and related workers,19-3090,Summary,58.90,60.10,0.00,0.00,1.20,2.00,5.60
+Anthropologists and archeologists,19-3091,Line item,8.00,8.40,0.00,0.00,0.40,5.20,0.80
+Geographers,19-3092,Line item,1.60,1.60,0.00,0.00,0.00,-1.20,0.10
+Historians,19-3093,Line item,3.50,3.60,0.00,0.00,0.10,2.60,0.30
+Political scientists,19-3094,Line item,7.00,7.40,0.00,0.00,0.40,6.10,0.70
+"Social scientists and related workers, all other",19-3099,Line item,38.80,39.10,0.00,0.00,0.30,0.80,3.60
+"Life, physical, and social science technicians",19-4000,Summary,389.50,407.60,0.20,0.20,18.10,4.70,42.50
+Agricultural and food science technicians,19-4010,Line item,24.20,25.10,0.00,0.00,1.00,4.10,2.80
+Biological technicians,19-4021,Line item,87.50,91.80,0.10,0.10,4.30,4.90,9.40
+Chemical technicians,19-4031,Line item,68.10,70.00,0.00,0.00,1.90,2.80,6.30
+Environmental science and geoscience technicians,19-4040,Summary,53.70,57.70,0.00,0.00,4.00,7.40,5.90
+"Environmental science and protection technicians, including health",19-4042,Line item,34.70,37.60,0.00,0.00,2.90,8.40,4.30
+Geological and hydrologic technicians,19-4045,Line item,19.00,20.10,0.00,0.00,1.00,5.50,1.60
+Nuclear technicians,19-4051,Line item,6.70,5.40,0.00,0.00,-1.30,-18.90,0.50
+Social science research assistants,19-4061,Line item,40.10,42.40,0.00,0.00,2.30,5.80,4.80
+Forest and conservation technicians,19-4071,Line item,21.20,21.30,0.00,0.00,0.10,0.60,2.30
+"Miscellaneous life, physical, and social science technicians",19-4090,Summary,88.10,93.90,0.10,0.10,5.80,6.50,10.60
+Forensic science technicians,19-4092,Line item,17.20,19.60,0.00,0.00,2.40,14.10,2.30
+"Life, physical, and social science technicians, all other",19-4099,Line item,71.00,74.30,0.00,0.00,3.40,4.70,8.30
+Occupational health and safety specialists and technicians,19-5000,Summary,122.60,127.40,0.10,0.10,4.80,4.00,6.70
+Occupational health and safety specialists,19-5011,Line item,100.50,104.30,0.10,0.10,3.80,3.80,5.50
+Occupational health and safety technicians,19-5012,Line item,22.10,23.10,0.00,0.00,1.00,4.80,1.20
+Community and social service occupations,21-0000,Summary,2797.70,3146.30,1.70,1.90,348.60,12.50,309.90
+"Counselors, social workers, and other community and social service specialists",21-1000,Summary,2331.30,2663.00,1.40,1.60,331.70,14.20,259.60
+Counselors,21-1010,Summary,868.40,1005.10,0.50,0.60,136.70,15.70,95.80
+"Educational, guidance, and career counselors and advisors",21-1012,Line item,333.50,360.40,0.20,0.20,26.80,8.00,33.10
+Marriage and family therapists,21-1013,Line item,66.20,80.90,0.00,0.00,14.80,22.30,7.90
+Rehabilitation counselors,21-1015,Line item,120.20,132.50,0.10,0.10,12.30,10.30,12.30
+"Substance abuse, behavioral disorder, and mental health counselors",21-1018,Line item,319.40,398.40,0.20,0.20,79.00,24.70,39.40
+"Counselors, all other",21-1019,Line item,29.10,32.90,0.00,0.00,3.80,13.00,3.10
+Social workers,21-1020,Summary,713.20,803.80,0.40,0.50,90.70,12.70,73.70
+"Child, family, and school social workers",21-1021,Line item,342.50,382.60,0.20,0.20,40.10,11.70,34.90
+Healthcare social workers,21-1022,Line item,185.00,211.70,0.10,0.10,26.70,14.40,19.60
+Mental health and substance abuse social workers,21-1023,Line item,123.20,143.80,0.10,0.10,20.70,16.80,13.40
+"Social workers, all other",21-1029,Line item,62.50,65.60,0.00,0.00,3.20,5.10,5.80
+Miscellaneous community and social service specialists,21-1090,Summary,749.70,854.00,0.50,0.50,104.30,13.90,90.10
+Health education specialists,21-1091,Line item,62.20,69.30,0.00,0.00,7.10,11.40,6.90
+Probation officers and correctional treatment specialists,21-1092,Line item,91.80,95.30,0.10,0.10,3.40,3.70,7.30
+Social and human service assistants,21-1093,Line item,425.60,497.10,0.30,0.30,71.50,16.80,56.50
+Community health workers,21-1094,Line item,64.90,74.80,0.00,0.00,9.90,15.20,7.60
+"Community and social service specialists, all other",21-1099,Line item,105.20,117.60,0.10,0.10,12.40,11.70,11.80
+Religious workers,21-2000,Summary,466.50,483.40,0.30,0.30,16.90,3.60,50.30
+Clergy,21-2011,Line item,243.90,253.60,0.10,0.20,9.70,4.00,24.40
+"Directors, religious activities and education",21-2021,Line item,157.50,162.70,0.10,0.10,5.20,3.30,17.70
+"Religious workers, all other",21-2099,Line item,65.00,67.10,0.00,0.00,2.10,3.20,8.30
+Legal occupations,23-0000,Summary,1335.60,1403.20,0.80,0.80,67.60,5.10,89.60
+"Lawyers, judges, and related workers",23-1000,Summary,883.90,918.40,0.50,0.50,34.50,3.90,43.30
+Lawyers and judicial law clerks,23-1010,Summary,831.30,864.20,0.50,0.50,32.90,4.00,40.80
+Lawyers,23-1011,Line item,813.90,846.30,0.50,0.50,32.30,4.00,39.90
+Judicial law clerks,23-1012,Line item,17.30,17.90,0.00,0.00,0.60,3.40,0.80
+"Judges, magistrates, and other judicial workers",23-1020,Summary,52.60,54.20,0.00,0.00,1.60,3.10,2.50
+"Administrative law judges, adjudicators, and hearing officers",23-1021,Line item,15.40,15.40,0.00,0.00,0.00,0.30,0.70
+"Arbitrators, mediators, and conciliators",23-1022,Line item,7.30,7.90,0.00,0.00,0.60,7.70,0.40
+"Judges, magistrate judges, and magistrates",23-1023,Line item,29.90,30.90,0.00,0.00,1.00,3.40,1.40
+Legal support workers,23-2000,Summary,451.70,484.80,0.30,0.30,33.10,7.30,46.30
+Paralegals and legal assistants,23-2011,Line item,337.80,373.10,0.20,0.20,35.30,10.50,37.60
+Miscellaneous legal support workers,23-2090,Summary,113.90,111.70,0.10,0.10,-2.20,-2.00,8.70
+"Title examiners, abstractors, and searchers",23-2093,Line item,63.60,61.90,0.00,0.00,-1.60,-2.60,4.80
+"Legal support workers, all other",23-2099,Line item,50.40,49.80,0.00,0.00,-0.60,-1.20,3.90
+Educational instruction and library occupations,25-0000,Summary,9744.70,10185.60,6.00,6.00,441.00,4.50,850.00
+Postsecondary teachers,25-1000,Summary,1721.50,1849.70,1.10,1.10,128.20,7.40,145.30
+"Business teachers, postsecondary",25-1011,Line item,105.10,117.70,0.10,0.10,12.70,12.00,9.50
+"Math and computer science teachers, postsecondary",25-1020,Summary,98.60,100.40,0.10,0.10,1.80,1.80,7.60
+"Computer science teachers, postsecondary",25-1021,Line item,38.50,39.50,0.00,0.00,1.00,2.60,3.00
+"Mathematical science teachers, postsecondary",25-1022,Line item,60.10,60.80,0.00,0.00,0.80,1.30,4.60
+"Engineering and architecture teachers, postsecondary",25-1030,Summary,53.10,57.40,0.00,0.00,4.30,8.10,4.50
+"Architecture teachers, postsecondary",25-1031,Line item,8.50,9.00,0.00,0.00,0.40,5.10,0.70
+"Engineering teachers, postsecondary",25-1032,Line item,44.60,48.40,0.00,0.00,3.80,8.60,3.80
+"Life sciences teachers, postsecondary",25-1040,Summary,78.30,84.60,0.00,0.10,6.30,8.10,6.70
+"Agricultural sciences teachers, postsecondary",25-1041,Line item,11.40,11.70,0.00,0.00,0.20,2.10,0.90
+"Biological science teachers, postsecondary",25-1042,Line item,64.70,70.70,0.00,0.00,6.00,9.30,5.60
+"Forestry and conservation science teachers, postsecondary",25-1043,Line item,2.10,2.20,0.00,0.00,0.00,2.20,0.20
+"Physical sciences teachers, postsecondary",25-1050,Summary,64.20,66.60,0.00,0.00,2.40,3.80,5.10
+"Atmospheric, earth, marine, and space sciences teachers, postsecondary",25-1051,Line item,13.10,13.40,0.00,0.00,0.20,1.90,1.00
+"Chemistry teachers, postsecondary",25-1052,Line item,26.40,27.50,0.00,0.00,1.10,4.30,2.10
+"Environmental science teachers, postsecondary",25-1053,Line item,7.60,7.80,0.00,0.00,0.30,3.70,0.60
+"Physics teachers, postsecondary",25-1054,Line item,17.10,17.80,0.00,0.00,0.80,4.40,1.40
+"Social sciences teachers, postsecondary",25-1060,Summary,145.00,152.70,0.10,0.10,7.70,5.30,11.80
+"Anthropology and archeology teachers, postsecondary",25-1061,Line item,7.20,7.50,0.00,0.00,0.30,4.40,0.60
+"Area, ethnic, and cultural studies teachers, postsecondary",25-1062,Line item,13.40,14.00,0.00,0.00,0.70,4.90,1.10
+"Economics teachers, postsecondary",25-1063,Line item,16.80,17.60,0.00,0.00,0.90,5.20,1.40
+"Geography teachers, postsecondary",25-1064,Line item,4.80,5.00,0.00,0.00,0.10,2.90,0.40
+"Political science teachers, postsecondary",25-1065,Line item,19.80,20.80,0.00,0.00,1.00,4.90,1.60
+"Psychology teachers, postsecondary",25-1066,Line item,46.80,51.00,0.00,0.00,4.10,8.80,4.00
+"Sociology teachers, postsecondary",25-1067,Line item,17.00,17.60,0.00,0.00,0.60,3.80,1.30
+"Social sciences teachers, postsecondary, all other",25-1069,Line item,19.30,19.20,0.00,0.00,-0.10,-0.30,1.40
+"Health teachers, postsecondary",25-1070,Summary,326.90,391.80,0.20,0.20,64.90,19.90,33.20
+"Health specialties teachers, postsecondary",25-1071,Line item,254.00,306.10,0.20,0.20,52.10,20.50,26.00
+"Nursing instructors and teachers, postsecondary",25-1072,Line item,72.90,85.70,0.00,0.10,12.80,17.60,7.20
+"Education and library science teachers, postsecondary",25-1080,Summary,82.60,86.50,0.10,0.10,3.90,4.70,6.70
+"Education teachers, postsecondary",25-1081,Line item,77.30,81.00,0.00,0.00,3.70,4.80,6.20
+"Library science teachers, postsecondary",25-1082,Line item,5.40,5.50,0.00,0.00,0.20,3.00,0.40
+"Law, criminal justice, and social work teachers, postsecondary",25-1110,Summary,55.40,59.00,0.00,0.00,3.60,6.40,4.60
+"Criminal justice and law enforcement teachers, postsecondary",25-1111,Line item,16.80,17.90,0.00,0.00,1.10,6.70,1.40
+"Law teachers, postsecondary",25-1112,Line item,21.30,22.80,0.00,0.00,1.50,6.90,1.80
+"Social work teachers, postsecondary",25-1113,Line item,17.30,18.30,0.00,0.00,1.00,5.70,1.40
+"Arts, communications, history, and humanities teachers, postsecondary",25-1120,Summary,320.60,334.70,0.20,0.20,14.00,4.40,25.70
+"Art, drama, and music teachers, postsecondary",25-1121,Line item,116.30,122.80,0.10,0.10,6.50,5.60,9.50
+"Communications teachers, postsecondary",25-1122,Line item,35.60,36.70,0.00,0.00,1.10,3.20,2.80
+"English language and literature teachers, postsecondary",25-1123,Line item,81.30,82.90,0.00,0.00,1.70,2.10,6.30
+"Foreign language and literature teachers, postsecondary",25-1124,Line item,30.60,32.30,0.00,0.00,1.70,5.70,2.50
+"History teachers, postsecondary",25-1125,Line item,26.00,27.00,0.00,0.00,0.90,3.60,2.10
+"Philosophy and religion teachers, postsecondary",25-1126,Line item,30.90,32.90,0.00,0.00,2.10,6.70,2.60
+Miscellaneous postsecondary teachers,25-1190,Summary,391.60,398.30,0.20,0.20,6.70,1.70,30.00
+"Family and consumer sciences teachers, postsecondary",25-1192,Line item,2.50,2.60,0.00,0.00,0.00,1.30,0.20
+"Recreation and fitness studies teachers, postsecondary",25-1193,Line item,19.10,19.60,0.00,0.00,0.50,2.60,1.50
+"Career/technical education teachers, postsecondary",25-1194,Line item,124.10,125.50,0.10,0.10,1.30,1.10,9.40
+"Postsecondary teachers, all other",25-1199,Line item,245.90,250.70,0.20,0.10,4.80,2.00,18.90
+"Preschool, elementary, middle, secondary, and special education teachers",25-2000,Summary,4363.90,4515.60,2.70,2.70,151.80,3.50,322.40
+Preschool and kindergarten teachers,25-2010,Summary,668.10,686.30,0.40,0.40,18.20,2.70,62.80
+"Preschool teachers, except special education",25-2011,Line item,540.40,553.90,0.30,0.30,13.50,2.50,50.60
+"Kindergarten teachers, except special education",25-2012,Line item,127.70,132.40,0.10,0.10,4.70,3.70,12.20
+Elementary and middle school teachers,25-2020,Summary,2091.00,2165.30,1.30,1.30,74.30,3.60,148.70
+"Elementary school teachers, except special education",25-2021,Line item,1452.10,1503.50,0.90,0.90,51.40,3.50,103.20
+"Middle school teachers, except special and career/technical education",25-2022,Line item,627.10,649.60,0.40,0.40,22.50,3.60,44.60
+"Career/technical education teachers, middle school",25-2023,Line item,11.80,12.10,0.00,0.00,0.40,3.10,0.80
+Secondary school teachers,25-2030,Summary,1124.50,1166.40,0.70,0.70,41.90,3.70,75.90
+"Secondary school teachers, except special and career/technical education",25-2031,Line item,1050.80,1090.90,0.60,0.60,40.20,3.80,71.10
+"Career/technical education teachers, secondary school",25-2032,Line item,73.80,75.50,0.00,0.00,1.70,2.30,4.80
+Special education teachers,25-2050,Summary,480.20,497.70,0.30,0.30,17.40,3.60,35.00
+"Special education teachers, preschool",25-2051,Line item,23.00,24.90,0.00,0.00,1.90,8.30,1.80
+"Special education teachers, kindergarten and elementary school",25-2052,Line item,193.00,198.60,0.10,0.10,5.60,2.90,13.90
+"Special education teachers, middle school",25-2057,Line item,84.70,86.90,0.10,0.10,2.20,2.60,6.10
+"Special education teachers, secondary school",25-2058,Line item,143.00,147.60,0.10,0.10,4.60,3.20,10.30
+"Special education teachers, all other",25-2059,Line item,36.60,39.70,0.00,0.00,3.10,8.50,2.90
+Other teachers and instructors,25-3000,Summary,1471.10,1550.70,0.90,0.90,79.70,5.40,166.30
+"Adult basic education, adult secondary education, and English as a Second Language instructors",25-3011,Line item,59.30,53.10,0.00,0.00,-6.20,-10.40,5.30
+Self-enrichment teachers,25-3021,Line item,386.20,425.90,0.20,0.30,39.80,10.30,46.50
+"Substitute teachers, short-term",25-3031,Line item,619.40,635.30,0.40,0.40,15.90,2.60,67.30
+"Tutors and teachers and instructors, all other",25-3097,Line item,406.20,436.40,0.20,0.30,30.20,7.40,47.20
+"Librarians, curators, and archivists",25-4000,Summary,278.10,285.90,0.20,0.20,7.80,2.80,31.00
+"Archivists, curators, and museum technicians",25-4010,Summary,37.50,41.70,0.00,0.00,4.20,11.20,4.50
+Archivists,25-4011,Line item,8.10,8.80,0.00,0.00,0.60,7.90,0.90
+Curators,25-4012,Line item,14.50,16.40,0.00,0.00,1.80,12.60,1.80
+Museum technicians and conservators,25-4013,Line item,14.80,16.50,0.00,0.00,1.70,11.60,1.80
+Librarians and media collections specialists,25-4022,Line item,146.50,153.80,0.10,0.10,7.30,5.00,13.80
+Library technicians,25-4031,Line item,94.10,90.50,0.10,0.10,-3.60,-3.90,12.70
+Other educational instruction and library occupations,25-9000,Summary,1910.20,1983.70,1.20,1.20,73.50,3.80,185.00
+Farm and home management educators,25-9021,Line item,10.40,10.00,0.00,0.00,-0.40,-3.90,0.80
+Instructional coordinators,25-9031,Line item,192.90,204.30,0.10,0.10,11.40,5.90,17.70
+Teaching assistants,25-9040,Summary,1565.50,1621.70,1.00,1.00,56.30,3.60,153.80
+"Teaching assistants, postsecondary",25-9044,Line item,169.60,175.40,0.10,0.10,5.80,3.40,13.40
+"Teaching assistants, except postsecondary",25-9045,Line item,1395.90,1446.40,0.90,0.90,50.50,3.60,140.40
+"Educational instruction and library workers, all other",25-9099,Line item,141.40,147.70,0.10,0.10,6.20,4.40,12.70
+"Arts, design, entertainment, sports, and media occupations",27-0000,Summary,2923.60,2997.60,1.80,1.80,73.90,2.50,293.40
+Art and design workers,27-1000,Summary,909.50,876.70,0.60,0.50,-32.90,-3.60,75.60
+Artists and related workers,27-1010,Summary,218.60,219.70,0.10,0.10,1.10,0.50,21.00
+Art directors,27-1011,Line item,99.10,97.30,0.10,0.10,-1.80,-1.80,9.20
+Craft artists,27-1012,Line item,10.60,10.50,0.00,0.00,-0.10,-1.00,1.00
+"Fine artists, including painters, sculptors, and illustrators",27-1013,Line item,28.30,28.60,0.00,0.00,0.30,1.00,2.70
+Special effects artists and animators,27-1014,Line item,67.50,70.30,0.00,0.00,2.80,4.10,6.90
+"Artists and related workers, all other",27-1019,Line item,13.10,13.00,0.00,0.00,0.00,-0.20,1.20
+Designers,27-1020,Summary,690.90,657.00,0.40,0.40,-33.90,-4.90,54.60
+Commercial and industrial designers,27-1021,Line item,42.20,40.70,0.00,0.00,-1.50,-3.50,3.40
+Fashion designers,27-1022,Line item,28.30,27.00,0.00,0.00,-1.30,-4.40,2.30
+Floral designers,27-1023,Line item,51.80,41.40,0.00,0.00,-10.40,-20.10,3.00
+Graphic designers,27-1024,Line item,281.50,270.80,0.20,0.20,-10.70,-3.80,22.70
+Interior designers,27-1025,Line item,77.90,74.10,0.00,0.00,-3.80,-4.90,6.20
+Merchandise displayers and window trimmers,27-1026,Line item,180.40,174.20,0.10,0.10,-6.20,-3.40,14.60
+Set and exhibit designers,27-1027,Line item,15.20,15.40,0.00,0.00,0.20,1.20,1.30
+"Designers, all other",27-1029,Line item,13.60,13.40,0.00,0.00,-0.30,-1.90,1.10
+"Entertainers and performers, sports and related workers",27-2000,Summary,841.80,902.40,0.50,0.50,60.60,7.20,104.70
+"Actors, producers, and directors",27-2010,Summary,229.60,247.70,0.10,0.10,18.10,7.90,22.30
+Actors,27-2011,Line item,70.10,72.20,0.00,0.00,2.10,3.10,7.10
+Producers and directors,27-2012,Line item,159.50,175.50,0.10,0.10,16.00,10.00,15.20
+"Athletes, coaches, umpires, and related workers",27-2020,Summary,328.40,366.00,0.20,0.20,37.50,11.40,50.70
+Athletes and sports competitors,27-2021,Line item,13.60,15.00,0.00,0.00,1.40,10.00,2.10
+Coaches and scouts,27-2022,Line item,292.00,326.40,0.20,0.20,34.30,11.80,45.30
+"Umpires, referees, and other sports officials",27-2023,Line item,22.80,24.60,0.00,0.00,1.80,8.00,3.40
+Dancers and choreographers,27-2030,Summary,16.90,18.00,0.00,0.00,1.00,6.10,2.80
+Dancers,27-2031,Line item,11.40,11.70,0.00,0.00,0.30,2.30,1.80
+Choreographers,27-2032,Line item,5.50,6.30,0.00,0.00,0.80,14.00,1.00
+"Musicians, singers, and related workers",27-2040,Summary,233.60,236.10,0.10,0.10,2.60,1.10,25.30
+Music directors and composers,27-2041,Line item,58.00,59.00,0.00,0.00,1.00,1.70,6.30
+Musicians and singers,27-2042,Line item,175.60,177.20,0.10,0.10,1.60,0.90,19.00
+"Miscellaneous entertainers and performers, sports and related workers",27-2090,Line item,33.30,34.60,0.00,0.00,1.40,4.20,3.60
+Media and communication workers,27-3000,Summary,804.00,828.00,0.50,0.50,24.00,3.00,76.10
+Broadcast announcers and radio disc jockeys,27-3011,Line item,40.80,38.70,0.00,0.00,-2.10,-5.30,3.70
+"News analysts, reporters, and journalists",27-3023,Line item,52.00,46.20,0.00,0.00,-5.80,-11.20,4.30
+Public relations specialists,27-3031,Line item,274.60,294.30,0.20,0.20,19.70,7.20,27.10
+Writers and editors,27-3040,Summary,308.40,300.90,0.20,0.20,-7.40,-2.40,27.10
+Editors,27-3041,Line item,118.70,110.00,0.10,0.10,-8.70,-7.30,9.80
+Technical writers,27-3042,Line item,58.40,62.70,0.00,0.00,4.30,7.40,5.70
+Writers and authors,27-3043,Line item,131.20,128.20,0.10,0.10,-3.10,-2.30,11.60
+Miscellaneous media and communication workers,27-3090,Summary,128.20,148.00,0.10,0.10,19.70,15.40,13.80
+Interpreters and translators,27-3091,Line item,77.40,92.90,0.00,0.10,15.50,20.00,8.80
+Court reporters and simultaneous captioners,27-3092,Line item,15.70,17.00,0.00,0.00,1.40,8.90,1.40
+"Media and communication workers, all other",27-3099,Line item,35.20,38.00,0.00,0.00,2.80,8.10,3.60
+Media and communication equipment workers,27-4000,Summary,368.30,390.50,0.20,0.20,22.20,6.00,37.10
+Audio and video technicians,27-4011,Line item,91.80,103.10,0.10,0.10,11.30,12.30,10.80
+Broadcast technicians,27-4012,Line item,32.70,33.70,0.00,0.00,1.00,3.10,3.40
+Sound engineering technicians,27-4014,Line item,15.80,16.70,0.00,0.00,1.00,6.00,1.70
+Photographers,27-4021,Line item,133.50,128.70,0.10,0.10,-4.80,-3.60,10.90
+"Television, video, and film camera operators and editors",27-4030,Summary,67.90,80.40,0.00,0.00,12.40,18.30,7.40
+"Camera operators, television, video, and film",27-4031,Line item,29.70,33.80,0.00,0.00,4.20,14.00,3.00
+Film and video editors,27-4032,Line item,38.30,46.50,0.00,0.00,8.30,21.60,4.30
+"Lighting technicians and media and communication equipment workers, all other",27-4098,Line item,26.60,27.90,0.00,0.00,1.30,4.90,2.80
+Healthcare practitioners and technical occupations,29-0000,Summary,9133.70,9967.30,5.60,5.90,833.60,9.10,570.80
+Healthcare diagnosing or treating practitioners,29-1000,Summary,6061.20,6646.80,3.70,3.90,585.50,9.70,339.80
+Chiropractors,29-1011,Line item,51.10,53.40,0.00,0.00,2.30,4.50,1.40
+Dentists,29-1020,Summary,151.60,155.50,0.10,0.10,4.00,2.60,4.80
+"Dentists, general",29-1021,Line item,132.10,135.70,0.10,0.10,3.70,2.80,4.20
+Oral and maxillofacial surgeons,29-1022,Line item,5.60,5.70,0.00,0.00,0.10,2.40,0.20
+Orthodontists,29-1023,Line item,7.20,7.30,0.00,0.00,0.20,2.40,0.20
+Prosthodontists,29-1024,Line item,0.60,0.60,0.00,0.00,0.00,2.20,0.00
+"Dentists, all other specialists",29-1029,Line item,6.20,6.20,0.00,0.00,0.00,0.20,0.20
+Dietitians and nutritionists,29-1031,Line item,74.20,80.10,0.00,0.00,5.90,8.00,5.30
+Optometrists,29-1041,Line item,44.40,46.30,0.00,0.00,1.90,4.30,1.50
+Pharmacists,29-1051,Line item,321.70,311.20,0.20,0.20,-10.50,-3.30,11.20
+Physician assistants,29-1071,Line item,125.50,164.80,0.10,0.10,39.30,31.30,11.40
+Podiatrists,29-1081,Line item,10.50,10.60,0.00,0.00,0.00,0.20,0.50
+Therapists,29-1120,Summary,790.70,937.20,0.50,0.60,146.50,18.50,54.30
+Occupational therapists,29-1122,Line item,143.30,166.00,0.10,0.10,22.70,15.90,10.30
+Physical therapists,29-1123,Line item,258.20,305.20,0.20,0.20,47.00,18.20,15.20
+Radiation therapists,29-1124,Line item,18.50,19.90,0.00,0.00,1.30,7.10,1.00
+Recreational therapists,29-1125,Line item,19.90,21.60,0.00,0.00,1.70,8.30,1.20
+Respiratory therapists,29-1126,Line item,135.80,162.00,0.10,0.10,26.30,19.40,9.20
+Speech-language pathologists,29-1127,Line item,162.60,203.10,0.10,0.10,40.50,24.90,13.70
+Exercise physiologists,29-1128,Line item,19.80,22.10,0.00,0.00,2.20,11.30,1.40
+"Therapists, all other",29-1129,Line item,32.60,37.40,0.00,0.00,4.80,14.60,2.40
+Veterinarians,29-1131,Line item,89.20,103.40,0.10,0.10,14.20,15.90,4.50
+Registered nurses,29-1141,Line item,3096.70,3318.70,1.90,2.00,221.90,7.20,175.90
+Nurse anesthetists,29-1151,Line item,44.90,51.00,0.00,0.00,6.20,13.70,2.90
+Nurse midwives,29-1161,Line item,7.20,8.10,0.00,0.00,0.80,11.60,0.50
+Nurse practitioners,29-1171,Line item,211.30,322.00,0.10,0.20,110.70,52.40,24.20
+Audiologists,29-1181,Line item,13.80,15.60,0.00,0.00,1.80,13.30,0.80
+Anesthesiologists,29-1211,Line item,33.80,34.00,0.00,0.00,0.20,0.50,0.90
+Family medicine physicians,29-1215,Line item,119.30,126.60,0.10,0.10,7.30,6.10,4.00
+General internal medicine physicians,29-1216,Line item,49.50,49.20,0.00,0.00,-0.30,-0.60,1.30
+Obstetricians and gynecologists,29-1218,Line item,20.30,20.10,0.00,0.00,-0.30,-1.40,0.50
+"Pediatricians, general",29-1221,Line item,32.50,32.00,0.00,0.00,-0.50,-1.60,0.80
+Psychiatrists,29-1223,Line item,27.90,31.30,0.00,0.00,3.30,11.90,1.10
+"Physicians, all other; and ophthalmologists, except pediatric",29-1228,Line item,429.50,447.90,0.30,0.30,18.50,4.30,13.60
+"Surgeons, except ophthalmologists",29-1248,Line item,39.60,38.80,0.00,0.00,-0.90,-2.20,1.00
+Miscellaneous healthcare diagnosing or treating practitioners,29-1290,Summary,276.00,289.10,0.20,0.20,13.20,4.80,17.40
+Dental hygienists,29-1292,Line item,226.40,239.70,0.10,0.10,13.30,5.90,15.10
+"Acupuncturists and healthcare diagnosing or treating practitioners, all other",29-1298,Line item,49.60,49.40,0.00,0.00,-0.10,-0.30,2.30
+Health technologists and technicians,29-2000,Summary,2978.30,3215.90,1.80,1.90,237.60,8.00,225.00
+Clinical laboratory technologists and technicians,29-2010,Line item,337.80,362.50,0.20,0.20,24.70,7.30,21.60
+Cardiovascular technologists and technicians,29-2031,Line item,57.40,60.50,0.00,0.00,3.10,5.40,3.20
+Diagnostic medical sonographers,29-2032,Line item,74.30,86.80,0.00,0.10,12.50,16.80,5.10
+Nuclear medicine technologists,29-2033,Line item,18.50,19.50,0.00,0.00,1.00,5.40,1.00
+Radiologic technologists and technicians,29-2034,Line item,212.00,226.10,0.10,0.10,14.10,6.70,12.00
+Magnetic resonance imaging technologists,29-2035,Line item,38.70,41.40,0.00,0.00,2.70,7.00,2.20
+Emergency medical technicians and paramedics,29-2040,Line item,265.20,282.20,0.20,0.20,17.00,6.40,17.40
+Health practitioner support technologists and technicians,29-2050,Summary,819.00,881.30,0.50,0.50,62.30,7.60,69.20
+Dietetic technicians,29-2051,Line item,30.20,32.00,0.00,0.00,1.80,5.90,2.50
+Pharmacy technicians,29-2052,Line item,422.30,437.60,0.30,0.30,15.20,3.60,33.40
+Psychiatric technicians,29-2053,Line item,82.80,93.80,0.10,0.10,11.00,13.30,7.60
+Surgical technologists,29-2055,Line item,111.30,118.90,0.10,0.10,7.60,6.80,9.30
+Veterinary technologists and technicians,29-2056,Line item,112.90,131.20,0.10,0.10,18.30,16.20,10.90
+Ophthalmic medical technicians,29-2057,Line item,59.50,67.90,0.00,0.00,8.50,14.20,5.60
+Licensed practical and licensed vocational nurses,29-2061,Line item,721.70,787.40,0.40,0.50,65.70,9.10,58.40
+"Opticians, dispensing",29-2081,Line item,73.80,76.80,0.00,0.00,3.00,4.00,5.70
+Orthotists and prosthetists,29-2091,Line item,10.00,11.70,0.00,0.00,1.70,16.90,0.90
+Hearing aid specialists,29-2092,Line item,8.10,9.00,0.00,0.00,0.90,10.50,0.60
+"Medical dosimetrists, medical records specialists, and health technologists and technicians, all other",29-2098,Line item,341.60,370.60,0.20,0.20,29.00,8.50,27.80
+Other healthcare practitioners and technical occupations,29-9000,Summary,94.20,104.70,0.10,0.10,10.50,11.10,6.00
+Athletic trainers,29-9091,Line item,32.10,37.30,0.00,0.00,5.20,16.20,2.20
+Genetic counselors,29-9092,Line item,2.60,3.20,0.00,0.00,0.60,21.50,0.20
+"Health information technologists, medical registrars, surgical assistants, and healthcare practitioners and technical workers, all other",29-9098,Line item,59.40,64.10,0.00,0.00,4.70,7.90,3.50
+Healthcare support occupations,31-0000,Summary,7013.40,8598.10,4.30,5.10,1584.80,22.60,1000.00
+"Home health and personal care aides; and nursing assistants, orderlies, and psychiatric aides",31-1100,Summary,5078.40,6363.80,3.10,3.80,1285.40,25.30,755.30
+Home health and personal care aides,31-1120,Line item,3439.70,4599.20,2.10,2.70,1159.50,33.70,568.80
+"Nursing assistants, orderlies, and psychiatric aides",31-1130,Summary,1638.70,1764.60,1.00,1.00,125.90,7.70,186.60
+Nursing assistants,31-1131,Line item,1528.50,1645.50,0.90,1.00,116.90,7.60,174.00
+Orderlies,31-1132,Line item,50.60,53.10,0.00,0.00,2.50,5.00,5.60
+Psychiatric aides,31-1133,Line item,59.50,66.00,0.00,0.00,6.50,10.90,7.10
+Occupational therapy and physical therapist assistants and aides,31-2000,Summary,204.40,265.30,0.10,0.20,60.90,29.80,30.00
+Occupational therapy assistants and aides,31-2010,Summary,55.10,73.00,0.00,0.00,17.90,32.50,7.90
+Occupational therapy assistants,31-2011,Line item,47.10,63.50,0.00,0.00,16.30,34.60,6.90
+Occupational therapy aides,31-2012,Line item,8.00,9.50,0.00,0.00,1.60,19.90,1.00
+Physical therapist assistants and aides,31-2020,Summary,149.30,192.30,0.10,0.10,43.00,28.80,22.00
+Physical therapist assistants,31-2021,Line item,98.70,130.90,0.10,0.10,32.20,32.60,15.10
+Physical therapist aides,31-2022,Line item,50.60,61.30,0.00,0.00,10.80,21.30,6.90
+Other healthcare support occupations,31-9000,Summary,1730.60,1969.00,1.10,1.20,238.50,13.80,214.70
+Massage therapists,31-9011,Line item,166.70,201.10,0.10,0.10,34.40,20.60,22.00
+Miscellaneous healthcare support occupations,31-9090,Summary,1563.80,1767.90,1.00,1.00,204.10,13.10,192.70
+Dental assistants,31-9091,Line item,354.60,378.00,0.20,0.20,23.40,6.60,39.00
+Medical assistants,31-9092,Line item,725.20,864.40,0.40,0.50,139.20,19.20,92.80
+Medical equipment preparers,31-9093,Line item,58.70,62.20,0.00,0.00,3.40,5.90,6.70
+Medical transcriptionists,31-9094,Line item,58.50,57.20,0.00,0.00,-1.30,-2.20,6.90
+Pharmacy aides,31-9095,Line item,37.90,32.00,0.00,0.00,-5.90,-15.70,3.20
+Veterinary assistants and laboratory animal caretakers,31-9096,Line item,99.50,115.20,0.10,0.10,15.70,15.80,16.90
+Phlebotomists,31-9097,Line item,132.60,155.50,0.10,0.10,22.80,17.20,15.80
+"Healthcare support workers, all other",31-9099,Line item,96.90,103.60,0.10,0.10,6.70,6.90,11.30
+Protective service occupations,33-0000,Summary,3615.90,3711.10,2.20,2.20,95.20,2.60,387.90
+Supervisors of protective service workers,33-1000,Summary,331.90,340.50,0.20,0.20,8.60,2.60,23.50
+First-line supervisors of law enforcement workers,33-1010,Summary,174.80,177.60,0.10,0.10,2.80,1.60,11.10
+First-line supervisors of correctional officers,33-1011,Line item,48.70,44.90,0.00,0.00,-3.80,-7.80,2.80
+First-line supervisors of police and detectives,33-1012,Line item,126.10,132.70,0.10,0.10,6.60,5.20,8.30
+First-line supervisors of firefighting and prevention workers,33-1021,Line item,71.50,75.90,0.00,0.00,4.40,6.20,4.60
+"Miscellaneous first-line supervisors, protective service workers",33-1090,Line item,85.70,87.00,0.10,0.10,1.30,1.60,7.80
+Firefighting and prevention workers,33-2000,Summary,351.90,373.60,0.20,0.20,21.70,6.20,26.00
+Firefighters,33-2011,Line item,335.50,355.80,0.20,0.20,20.30,6.10,24.20
+Fire inspectors,33-2020,Summary,16.40,17.80,0.00,0.00,1.40,8.50,1.80
+Fire inspectors and investigators,33-2021,Line item,14.20,15.00,0.00,0.00,0.80,5.90,1.50
+Forest fire inspectors and prevention specialists,33-2022,Line item,2.30,2.80,0.00,0.00,0.50,24.30,0.30
+Law enforcement workers,33-3000,Summary,1283.90,1288.50,0.80,0.80,4.60,0.40,94.00
+"Bailiffs, correctional officers, and jailers",33-3010,Summary,462.30,429.20,0.30,0.30,-33.10,-7.20,34.70
+Bailiffs,33-3011,Line item,20.30,20.30,0.00,0.00,-0.10,-0.30,1.70
+Correctional officers and jailers,33-3012,Line item,442.00,408.90,0.30,0.20,-33.10,-7.50,33.00
+Detectives and criminal investigators,33-3021,Line item,113.50,114.70,0.10,0.10,1.30,1.10,7.30
+Fish and game wardens,33-3031,Line item,7.20,7.30,0.00,0.00,0.10,1.20,0.50
+Parking enforcement workers,33-3041,Line item,8.10,5.20,0.00,0.00,-2.90,-36.20,0.20
+Police officers,33-3050,Summary,692.90,732.10,0.40,0.40,39.20,5.70,51.30
+Police and sheriff's patrol officers,33-3051,Line item,688.40,727.40,0.40,0.40,39.10,5.70,51.00
+Transit and railroad police,33-3052,Line item,4.50,4.70,0.00,0.00,0.20,4.00,0.30
+Other protective service workers,33-9000,Summary,1648.20,1708.50,1.00,1.00,60.30,3.70,244.40
+Animal control workers,33-9011,Line item,13.90,14.80,0.00,0.00,0.90,6.50,1.40
+Private detectives and investigators,33-9021,Line item,36.20,39.20,0.00,0.00,3.00,8.30,3.30
+Security guards and gambling surveillance officers,33-9030,Summary,1164.60,1197.90,0.70,0.70,33.30,2.90,144.00
+Gambling surveillance officers and gambling investigators,33-9031,Line item,10.50,11.10,0.00,0.00,0.60,5.60,1.40
+Security guards,33-9032,Line item,1154.10,1186.80,0.70,0.70,32.80,2.80,142.70
+Miscellaneous protective service workers,33-9090,Summary,433.50,456.60,0.30,0.30,23.10,5.30,95.70
+Crossing guards and flaggers,33-9091,Line item,86.70,91.60,0.10,0.10,5.00,5.70,15.40
+"Lifeguards, ski patrol, and other recreational protective service workers",33-9092,Line item,149.80,163.30,0.10,0.10,13.50,9.00,39.30
+Transportation security screeners,33-9093,Line item,51.40,49.80,0.00,0.00,-1.60,-3.10,4.30
+"School bus monitors and protective service workers, all other",33-9098,Line item,145.60,151.80,0.10,0.10,6.20,4.30,36.70
+Food preparation and serving related occupations,35-0000,Summary,13761.30,14769.70,8.50,8.70,1008.40,7.30,2412.80
+Supervisors of food preparation and serving workers,35-1000,Summary,1188.00,1258.30,0.70,0.70,70.40,5.90,171.10
+Chefs and head cooks,35-1011,Line item,148.70,158.10,0.10,0.10,9.50,6.40,18.50
+First-line supervisors of food preparation and serving workers,35-1012,Line item,1039.30,1100.20,0.60,0.70,60.90,5.90,152.60
+Cooks and food preparation workers,35-2000,Summary,3458.50,3705.60,2.10,2.20,247.20,7.10,514.40
+Cooks,35-2010,Summary,2571.70,2828.40,1.60,1.70,256.60,10.00,374.90
+"Cooks, fast food",35-2011,Line item,534.00,462.30,0.30,0.30,-71.60,-13.40,57.30
+"Cooks, institution and cafeteria",35-2012,Line item,420.20,428.70,0.30,0.30,8.50,2.00,55.80
+"Cooks, private household",35-2013,Line item,23.80,22.30,0.00,0.00,-1.50,-6.30,2.80
+"Cooks, restaurant",35-2014,Line item,1417.30,1744.60,0.90,1.00,327.30,23.10,237.20
+"Cooks, short order",35-2015,Line item,154.70,147.90,0.10,0.10,-6.80,-4.40,18.90
+"Cooks, all other",35-2019,Line item,21.80,22.50,0.00,0.00,0.80,3.50,2.90
+Food preparation workers,35-2021,Line item,886.70,877.20,0.50,0.50,-9.50,-1.10,139.40
+Food and beverage serving workers,35-3000,Summary,7600.80,8217.10,4.70,4.90,616.30,8.10,1456.10
+Bartenders,35-3011,Line item,654.70,693.10,0.40,0.40,38.40,5.90,108.70
+Fast food and counter workers,35-3023,Line item,4047.70,4508.60,2.50,2.70,460.90,11.40,826.60
+Waiters and waitresses,35-3031,Line item,2613.80,2711.40,1.60,1.60,97.60,3.70,475.70
+"Food servers, nonrestaurant",35-3041,Line item,284.60,303.90,0.20,0.20,19.30,6.80,45.10
+Other food preparation and serving related workers,35-9000,Summary,1514.10,1588.70,0.90,0.90,74.60,4.90,271.20
+Dining room and cafeteria attendants and bartender helpers,35-9011,Line item,488.00,519.90,0.30,0.30,31.90,6.50,83.00
+Dishwashers,35-9021,Line item,522.30,524.70,0.30,0.30,2.40,0.50,77.60
+"Hosts and hostesses, restaurant, lounge, and coffee shop",35-9031,Line item,429.70,464.90,0.30,0.30,35.20,8.20,98.10
+"Food preparation and serving related workers, all other",35-9099,Line item,74.10,79.20,0.00,0.00,5.10,6.90,12.60
+Building and grounds cleaning and maintenance occupations,37-0000,Summary,5664.00,5943.40,3.50,3.50,279.50,4.90,721.90
+Supervisors of building and grounds cleaning and maintenance workers,37-1000,Summary,402.60,441.30,0.20,0.30,38.80,9.60,45.60
+First-line supervisors of housekeeping and janitorial workers,37-1011,Line item,231.90,251.20,0.10,0.10,19.40,8.40,26.80
+"First-line supervisors of landscaping, lawn service, and groundskeeping workers",37-1012,Line item,170.70,190.10,0.10,0.10,19.40,11.40,18.90
+Building cleaning and pest control workers,37-2000,Summary,3956.10,4066.00,2.40,2.40,109.90,2.80,501.80
+Building cleaning workers,37-2010,Summary,3868.50,3970.90,2.40,2.40,102.40,2.60,489.70
+"Janitors and cleaners, except maids and housekeeping cleaners",37-2011,Line item,2374.20,2479.80,1.50,1.50,105.60,4.40,305.60
+Maids and housekeeping cleaners,37-2012,Line item,1474.90,1470.70,0.90,0.90,-4.10,-0.30,181.50
+"Building cleaning workers, all other",37-2019,Line item,19.40,20.40,0.00,0.00,0.90,4.80,2.50
+Pest control workers,37-2021,Line item,87.60,95.00,0.10,0.10,7.50,8.50,12.10
+Grounds maintenance workers,37-3000,Summary,1305.30,1436.10,0.80,0.90,130.80,10.00,174.50
+Landscaping and groundskeeping workers,37-3011,Line item,1188.00,1307.90,0.70,0.80,119.90,10.10,158.90
+"Pesticide handlers, sprayers, and applicators, vegetation",37-3012,Line item,38.10,41.20,0.00,0.00,3.20,8.30,5.00
+Tree trimmers and pruners,37-3013,Line item,62.00,68.60,0.00,0.00,6.60,10.70,8.30
+"Grounds maintenance workers, all other",37-3019,Line item,17.40,18.50,0.00,0.00,1.10,6.50,2.20
+Personal care and service occupations,39-0000,Summary,4724.10,5088.40,2.90,3.00,364.30,7.70,717.40
+Supervisors of personal care and service workers,39-1000,Summary,371.10,415.70,0.20,0.20,44.50,12.00,41.50
+First-line supervisors of gambling services workers,39-1013,Line item,58.00,67.50,0.00,0.00,9.50,16.40,9.70
+"First-line supervisors of personal service and entertainment and recreation workers, except gambling services",39-1098,Line item,313.10,348.10,0.20,0.20,35.00,11.20,31.80
+Animal care and service workers,39-2000,Summary,350.90,426.40,0.20,0.30,75.50,21.50,62.40
+Animal trainers,39-2011,Line item,50.20,56.90,0.00,0.00,6.70,13.30,7.60
+Animal caretakers,39-2021,Line item,300.70,369.50,0.20,0.20,68.80,22.90,54.90
+Entertainment attendants and related workers,39-3000,Summary,654.90,707.00,0.40,0.40,52.10,8.00,140.80
+Gambling services workers,39-3010,Summary,124.20,133.20,0.10,0.10,9.00,7.20,19.70
+Gambling dealers,39-3011,Line item,102.90,110.70,0.10,0.10,7.90,7.70,16.40
+Gambling and sports book writers and runners,39-3012,Line item,10.40,10.80,0.00,0.00,0.40,3.70,1.60
+"Gambling service workers, all other",39-3019,Line item,10.90,11.60,0.00,0.00,0.70,6.50,1.70
+Motion picture projectionists,39-3021,Line item,4.70,4.10,0.00,0.00,-0.50,-11.20,0.90
+"Ushers, lobby attendants, and ticket takers",39-3031,Line item,139.00,143.70,0.10,0.10,4.70,3.30,31.90
+Miscellaneous entertainment attendants and related workers,39-3090,Summary,387.00,426.10,0.20,0.30,39.00,10.10,88.30
+Amusement and recreation attendants,39-3091,Line item,357.70,394.70,0.20,0.20,37.00,10.30,81.80
+Costume attendants,39-3092,Line item,7.70,8.10,0.00,0.00,0.40,4.70,1.70
+"Locker room, coatroom, and dressing room attendants",39-3093,Line item,16.80,18.10,0.00,0.00,1.40,8.10,3.80
+"Entertainment attendants and related workers, all other",39-3099,Line item,4.80,5.10,0.00,0.00,0.30,6.20,1.10
+Embalmers,39-4011,Line item,3.90,3.60,0.00,0.00,-0.30,-7.60,0.50
+Funeral attendants,39-4021,Line item,34.30,33.30,0.00,0.00,-1.00,-2.90,5.00
+"Morticians, undertakers, and funeral arrangers",39-4031,Line item,26.60,26.10,0.00,0.00,-0.50,-2.00,2.70
+Personal appearance workers,39-5000,Summary,978.00,1014.10,0.60,0.60,36.10,3.70,110.70
+"Barbers, hairdressers, hairstylists and cosmetologists",39-5010,Summary,722.60,713.30,0.40,0.40,-9.20,-1.30,77.80
+Barbers,39-5011,Line item,66.50,71.50,0.00,0.00,5.00,7.50,7.20
+"Hairdressers, hairstylists, and cosmetologists",39-5012,Line item,656.10,641.80,0.40,0.40,-14.20,-2.20,70.60
+Miscellaneous personal appearance workers,39-5090,Summary,255.40,300.80,0.20,0.20,45.40,17.80,32.90
+"Makeup artists, theatrical and performance",39-5091,Line item,4.70,5.20,0.00,0.00,0.50,11.00,0.60
+Manicurists and pedicurists,39-5092,Line item,155.30,185.20,0.10,0.10,29.90,19.20,20.40
+Shampooers,39-5093,Line item,16.80,18.80,0.00,0.00,1.90,11.40,2.00
+Skincare specialists,39-5094,Line item,78.60,91.60,0.00,0.10,13.10,16.60,10.00
+"Baggage porters, bellhops, and concierges",39-6000,Summary,83.30,88.30,0.10,0.10,5.00,6.00,11.60
+Baggage porters and bellhops,39-6011,Line item,40.60,42.80,0.00,0.00,2.20,5.30,5.60
+Concierges,39-6012,Line item,42.60,45.50,0.00,0.00,2.90,6.70,6.00
+Tour and travel guides,39-7000,Summary,57.30,60.50,0.00,0.00,3.10,5.40,9.60
+Tour and travel guides,39-7010,Line item,57.30,60.50,0.00,0.00,3.10,5.40,9.60
+Childcare workers,39-9011,Line item,1146.40,1165.90,0.70,0.70,19.50,1.70,160.20
+Recreation and fitness workers,39-9030,Summary,790.90,890.00,0.50,0.50,99.10,12.50,136.60
+Exercise trainers and group fitness instructors,39-9031,Line item,373.70,431.30,0.20,0.30,57.60,15.40,66.40
+Recreation workers,39-9032,Line item,417.10,458.70,0.30,0.30,41.50,10.00,70.20
+Residential advisors,39-9041,Line item,115.20,128.70,0.10,0.10,13.60,11.80,18.50
+"Crematory operators and personal care and service workers, all other",39-9098,Line item,111.30,128.80,0.10,0.10,17.50,15.70,17.10
+Sales and related occupations,41-0000,Summary,15525.30,15222.00,9.50,9.00,-303.40,-2.00,1856.10
+Supervisors of sales workers,41-1000,Summary,1886.30,1771.00,1.20,1.00,-115.30,-6.10,159.80
+First-line supervisors of retail sales workers,41-1011,Line item,1476.40,1395.30,0.90,0.80,-81.20,-5.50,131.00
+First-line supervisors of non-retail sales workers,41-1012,Line item,409.80,375.70,0.30,0.20,-34.10,-8.30,28.80
+Retail sales workers,41-2000,Summary,8676.00,8396.00,5.30,5.00,-280.00,-3.20,1205.60
+Cashiers,41-2010,Summary,3622.50,3357.70,2.20,2.00,-264.80,-7.30,562.30
+Cashiers,41-2011,Line item,3600.90,3335.50,2.20,2.00,-265.30,-7.40,558.60
+Gambling change persons and booth cashiers,41-2012,Line item,21.70,22.20,0.00,0.00,0.50,2.50,3.80
+Counter and rental clerks and parts salespersons,41-2020,Summary,682.10,691.90,0.40,0.40,9.90,1.40,75.20
+Counter and rental clerks,41-2021,Line item,420.40,424.90,0.30,0.30,4.50,1.10,46.10
+Parts salespersons,41-2022,Line item,261.70,267.00,0.20,0.20,5.30,2.00,29.10
+Retail salespersons,41-2031,Line item,4371.40,4346.30,2.70,2.60,-25.10,-0.60,568.10
+"Sales representatives, services",41-3000,Summary,2257.20,2336.00,1.40,1.40,78.80,3.50,230.30
+Advertising sales agents,41-3011,Line item,139.20,130.20,0.10,0.10,-9.00,-6.50,14.40
+Insurance sales agents,41-3021,Line item,501.30,528.80,0.30,0.30,27.50,5.50,45.90
+"Securities, commodities, and financial services sales agents",41-3031,Line item,464.20,481.60,0.30,0.30,17.40,3.70,40.50
+Travel agents,41-3041,Line item,82.00,60.80,0.10,0.00,-21.30,-25.90,5.70
+"Sales representatives of services, except advertising, insurance, financial services, and travel",41-3091,Line item,1070.50,1134.70,0.70,0.70,64.20,6.00,123.80
+"Sales representatives, wholesale and manufacturing",41-4000,Summary,1720.70,1747.00,1.10,1.00,26.20,1.50,158.20
+"Sales representatives, wholesale and manufacturing, technical and scientific products",41-4011,Line item,321.00,334.00,0.20,0.20,13.00,4.10,30.70
+"Sales representatives, wholesale and manufacturing, except technical and scientific products",41-4012,Line item,1399.70,1412.90,0.90,0.80,13.20,0.90,127.50
+Other sales and related workers,41-9000,Summary,985.20,972.10,0.60,0.60,-13.10,-1.30,102.20
+"Models, demonstrators, and product promoters",41-9010,Summary,90.80,93.60,0.10,0.10,2.70,3.00,15.70
+Demonstrators and product promoters,41-9011,Line item,88.10,90.90,0.10,0.10,2.70,3.10,15.30
+Models,41-9012,Line item,2.70,2.70,0.00,0.00,0.00,0.50,0.50
+Real estate brokers and sales agents,41-9020,Summary,477.20,488.50,0.30,0.30,11.30,2.40,41.10
+Real estate brokers,41-9021,Line item,100.70,103.30,0.10,0.10,2.70,2.60,8.70
+Real estate sales agents,41-9022,Line item,376.50,385.20,0.20,0.20,8.70,2.30,32.40
+Sales engineers,41-9031,Line item,64.50,68.60,0.00,0.00,4.10,6.30,6.70
+Telemarketers,41-9041,Line item,136.90,117.50,0.10,0.10,-19.40,-14.20,15.50
+Miscellaneous sales and related workers,41-9090,Summary,215.80,203.90,0.10,0.10,-11.90,-5.50,23.10
+"Door-to-door sales workers, news and street vendors, and related workers",41-9091,Line item,72.90,58.30,0.00,0.00,-14.60,-20.00,6.30
+"Sales and related workers, all other",41-9099,Line item,142.90,145.60,0.10,0.10,2.70,1.90,16.90
+Office and administrative support occupations,43-0000,Summary,20633.00,19673.30,12.70,11.70,-959.70,-4.70,2017.40
+Supervisors of office and administrative support workers,43-1000,Summary,1552.40,1505.70,1.00,0.90,-46.70,-3.00,138.20
+First-line supervisors of office and administrative support workers,43-1011,Line item,1552.40,1505.70,1.00,0.90,-46.70,-3.00,138.20
+Communications equipment operators,43-2000,Summary,78.50,61.70,0.00,0.00,-16.80,-21.40,5.50
+"Switchboard operators, including answering service",43-2011,Line item,69.90,54.10,0.00,0.00,-15.70,-22.50,4.70
+Telephone operators,43-2021,Line item,5.00,3.60,0.00,0.00,-1.40,-27.90,0.40
+"Communications equipment operators, all other",43-2099,Line item,3.60,3.90,0.00,0.00,0.30,9.10,0.40
+Financial clerks,43-3000,Summary,3111.10,2932.90,1.90,1.70,-178.30,-5.70,294.10
+Bill and account collectors,43-3011,Line item,238.90,223.50,0.10,0.10,-15.40,-6.40,22.90
+Billing and posting clerks,43-3021,Line item,484.20,493.50,0.30,0.30,9.30,1.90,48.10
+"Bookkeeping, accounting, and auditing clerks",43-3031,Line item,1673.60,1578.20,1.00,0.90,-95.40,-5.70,162.10
+Gambling cage workers,43-3041,Line item,14.60,15.40,0.00,0.00,0.80,5.70,1.80
+Payroll and timekeeping clerks,43-3051,Line item,149.80,143.10,0.10,0.10,-6.70,-4.50,13.70
+Procurement clerks,43-3061,Line item,68.50,63.40,0.00,0.00,-5.10,-7.50,5.30
+Tellers,43-3071,Line item,449.00,380.40,0.30,0.20,-68.60,-15.30,36.70
+"Financial clerks, all other",43-3099,Line item,32.60,35.40,0.00,0.00,2.80,8.60,3.60
+Information and record clerks,43-4000,Summary,6012.80,5963.60,3.70,3.50,-49.20,-0.80,689.60
+Brokerage clerks,43-4011,Line item,48.60,50.50,0.00,0.00,1.90,3.80,4.90
+Correspondence clerks,43-4021,Line item,6.80,6.60,0.00,0.00,-0.20,-3.20,0.70
+"Court, municipal, and license clerks",43-4031,Line item,163.70,171.60,0.10,0.10,7.90,4.80,15.60
+"Credit authorizers, checkers, and clerks",43-4041,Line item,26.90,25.60,0.00,0.00,-1.30,-4.80,2.20
+Customer service representatives,43-4051,Line item,3018.80,2959.80,1.90,1.80,-59.00,-2.00,350.20
+"Eligibility interviewers, government programs",43-4061,Line item,147.50,153.10,0.10,0.10,5.70,3.80,13.70
+File clerks,43-4071,Line item,106.70,91.10,0.10,0.10,-15.60,-14.60,9.40
+"Hotel, motel, and resort desk clerks",43-4081,Line item,276.50,257.40,0.20,0.20,-19.10,-6.90,38.50
+"Interviewers, except eligibility and loan",43-4111,Line item,201.90,207.00,0.10,0.10,5.10,2.50,23.90
+"Library assistants, clerical",43-4121,Line item,90.50,87.00,0.10,0.10,-3.50,-3.80,12.20
+Loan interviewers and clerks,43-4131,Line item,212.60,230.30,0.10,0.10,17.70,8.30,21.20
+New accounts clerks,43-4141,Line item,44.30,37.80,0.00,0.00,-6.50,-14.70,3.40
+Order clerks,43-4151,Line item,146.00,129.10,0.10,0.10,-16.80,-11.50,12.80
+"Human resources assistants, except payroll and timekeeping",43-4161,Line item,123.90,117.70,0.10,0.10,-6.20,-5.00,11.50
+Receptionists and information clerks,43-4171,Line item,1105.30,1144.70,0.70,0.70,39.50,3.60,139.20
+Reservation and transportation ticket agents and travel clerks,43-4181,Line item,126.30,122.70,0.10,0.10,-3.70,-2.90,12.50
+"Information and record clerks, all other",43-4199,Line item,166.50,171.50,0.10,0.10,5.10,3.00,17.80
+"Material recording, scheduling, dispatching, and distributing workers",43-5000,Summary,2206.10,2093.60,1.40,1.20,-112.50,-5.10,171.90
+Cargo and freight agents,43-5011,Line item,97.20,102.60,0.10,0.10,5.40,5.50,9.10
+Couriers and messengers,43-5021,Line item,121.80,119.10,0.10,0.10,-2.70,-2.20,10.40
+Dispatchers,43-5030,Summary,302.90,307.10,0.20,0.20,4.20,1.40,26.30
+Public safety telecommunicators,43-5031,Line item,98.30,104.30,0.10,0.10,6.10,6.20,9.20
+"Dispatchers, except police, fire, and ambulance",43-5032,Line item,204.60,202.70,0.10,0.10,-1.90,-0.90,17.10
+"Meter readers, utilities",43-5041,Line item,30.90,27.40,0.00,0.00,-3.60,-11.50,2.20
+Postal service workers,43-5050,Summary,503.10,430.90,0.30,0.30,-72.20,-14.30,25.60
+Postal service clerks,43-5051,Line item,78.10,67.50,0.00,0.00,-10.50,-13.50,4.30
+Postal service mail carriers,43-5052,Line item,326.60,282.50,0.20,0.20,-44.10,-13.50,16.10
+"Postal service mail sorters, processors, and processing machine operators",43-5053,Line item,98.50,80.90,0.10,0.00,-17.60,-17.80,5.20
+"Production, planning, and expediting clerks",43-5061,Line item,378.50,393.30,0.20,0.20,14.80,3.90,37.50
+"Shipping, receiving, and inventory clerks",43-5071,Line item,710.40,648.80,0.40,0.40,-61.50,-8.70,54.30
+"Weighers, measurers, checkers, and samplers, recordkeeping",43-5111,Line item,61.30,64.50,0.00,0.00,3.10,5.10,6.40
+Secretaries and administrative assistants,43-6000,Summary,3638.80,3311.40,2.20,2.00,-327.40,-9.00,321.80
+Executive secretaries and executive administrative assistants,43-6011,Line item,593.40,472.40,0.40,0.30,-121.10,-20.40,42.30
+Legal secretaries and administrative assistants,43-6012,Line item,171.80,133.80,0.10,0.10,-38.00,-22.10,11.80
+Medical secretaries and administrative assistants,43-6013,Line item,623.40,682.70,0.40,0.40,59.30,9.50,72.60
+"Secretaries and administrative assistants, except legal, medical, and executive",43-6014,Line item,2250.20,2022.60,1.40,1.20,-227.50,-10.10,195.20
+Other office and administrative support workers,43-9000,Summary,4033.30,3804.40,2.50,2.30,-228.90,-5.70,396.30
+Data entry and information processing workers,43-9020,Summary,225.10,163.50,0.10,0.10,-61.60,-27.40,13.80
+Data entry keyers,43-9021,Line item,172.40,130.00,0.10,0.10,-42.40,-24.60,10.90
+Word processors and typists,43-9022,Line item,52.70,33.50,0.00,0.00,-19.20,-36.40,2.90
+Desktop publishers,43-9031,Line item,10.40,8.40,0.00,0.00,-2.00,-19.00,0.80
+Insurance claims and policy processing clerks,43-9041,Line item,293.90,287.30,0.20,0.20,-6.60,-2.20,25.50
+"Mail clerks and mail machine operators, except postal service",43-9051,Line item,88.40,82.50,0.10,0.00,-6.00,-6.70,8.30
+"Office clerks, general",43-9061,Line item,3126.30,2970.40,1.90,1.80,-155.90,-5.00,317.50
+"Office machine operators, except computer",43-9071,Line item,47.30,41.10,0.00,0.00,-6.20,-13.10,3.80
+Proofreaders and copy markers,43-9081,Line item,10.30,10.10,0.00,0.00,-0.30,-2.70,1.20
+Statistical assistants,43-9111,Line item,10.80,11.50,0.00,0.00,0.70,6.40,1.30
+"Office and administrative support workers, all other",43-9199,Line item,220.80,229.60,0.10,0.10,8.80,4.00,24.10
+"Farming, fishing, and forestry occupations",45-0000,Summary,1116.60,1115.10,0.70,0.70,-1.50,-0.10,159.70
+"Supervisors of farming, fishing, and forestry workers",45-1000,Summary,53.20,52.60,0.00,0.00,-0.60,-1.10,6.90
+"First-line supervisors of farming, fishing, and forestry workers",45-1011,Line item,53.20,52.60,0.00,0.00,-0.60,-1.10,6.90
+Agricultural workers,45-2000,Summary,956.50,966.00,0.60,0.60,9.50,1.00,139.60
+Agricultural inspectors,45-2011,Line item,15.20,15.50,0.00,0.00,0.30,1.80,2.20
+Animal breeders,45-2021,Line item,8.40,8.10,0.00,0.00,-0.30,-3.20,1.20
+"Graders and sorters, agricultural products",45-2041,Line item,38.30,38.30,0.00,0.00,0.00,0.00,5.00
+Miscellaneous agricultural workers,45-2090,Summary,894.50,904.00,0.50,0.50,9.50,1.10,131.20
+Agricultural equipment operators,45-2091,Line item,70.30,78.30,0.00,0.00,8.00,11.40,11.60
+"Farmworkers and laborers, crop, nursery, and greenhouse",45-2092,Line item,566.50,587.90,0.30,0.30,21.40,3.80,85.80
+"Farmworkers, farm, ranch, and aquacultural animals",45-2093,Line item,245.40,225.10,0.20,0.10,-20.30,-8.30,32.10
+"Agricultural workers, all other",45-2099,Line item,12.30,12.70,0.00,0.00,0.40,2.90,1.80
+Fishing and hunting workers,45-3000,Summary,36.70,33.90,0.00,0.00,-2.80,-7.70,4.60
+Fishing and hunting workers,45-3031,Line item,36.70,33.90,0.00,0.00,-2.80,-7.70,4.60
+"Forest, conservation, and logging workers",45-4000,Summary,70.10,62.60,0.00,0.00,-7.60,-10.80,8.50
+Forest and conservation workers,45-4011,Line item,13.20,13.10,0.00,0.00,-0.10,-0.50,1.80
+Logging workers,45-4020,Summary,56.90,49.40,0.00,0.00,-7.50,-13.20,6.70
+Fallers,45-4021,Line item,7.20,6.00,0.00,0.00,-1.20,-16.70,0.80
+Logging equipment operators,45-4022,Line item,39.20,34.30,0.00,0.00,-4.90,-12.50,4.70
+Log graders and scalers,45-4023,Line item,4.80,4.30,0.00,0.00,-0.60,-11.40,0.60
+"Logging workers, all other",45-4029,Line item,5.70,4.90,0.00,0.00,-0.80,-14.50,0.70
+Construction and extraction occupations,47-0000,Summary,7349.10,7645.40,4.50,4.50,296.30,4.00,733.90
+Supervisors of construction and extraction workers,47-1000,Summary,685.00,718.00,0.40,0.40,33.00,4.80,65.50
+First-line supervisors of construction trades and extraction workers,47-1011,Line item,685.00,718.00,0.40,0.40,33.00,4.80,65.50
+Construction trades workers,47-2000,Summary,5681.00,5872.40,3.50,3.50,191.30,3.40,550.90
+Boilermakers,47-2011,Line item,15.90,16.00,0.00,0.00,0.10,0.90,1.40
+"Brickmasons, blockmasons, and stonemasons",47-2020,Summary,98.70,93.00,0.10,0.10,-5.80,-5.90,7.80
+Brickmasons and blockmasons,47-2021,Line item,81.90,76.70,0.10,0.00,-5.20,-6.40,6.40
+Stonemasons,47-2022,Line item,16.80,16.30,0.00,0.00,-0.50,-3.20,1.40
+Carpenters,47-2031,Line item,1024.10,1019.90,0.60,0.60,-4.20,-0.40,89.00
+"Carpet, floor, and tile installers and finishers",47-2040,Summary,123.40,127.50,0.10,0.10,4.10,3.30,10.70
+Carpet installers,47-2041,Line item,36.50,33.30,0.00,0.00,-3.20,-8.90,2.50
+"Floor layers, except carpet, wood, and hard tiles",47-2042,Line item,22.90,25.20,0.00,0.00,2.30,9.90,2.20
+Floor sanders and finishers,47-2043,Line item,7.00,7.10,0.00,0.00,0.20,2.20,0.60
+Tile and stone setters,47-2044,Line item,57.00,61.90,0.00,0.00,4.90,8.60,5.40
+"Cement masons, concrete finishers, and terrazzo workers",47-2050,Summary,203.40,199.20,0.10,0.10,-4.30,-2.10,17.00
+Cement masons and concrete finishers,47-2051,Line item,200.40,196.40,0.10,0.10,-3.90,-2.00,16.80
+Terrazzo workers and finishers,47-2053,Line item,3.00,2.70,0.00,0.00,-0.30,-10.30,0.20
+Construction laborers,47-2061,Line item,1398.00,1473.40,0.90,0.90,75.40,5.40,141.10
+Construction equipment operators,47-2070,Summary,468.30,487.50,0.30,0.30,19.20,4.10,49.50
+"Paving, surfacing, and tamping equipment operators",47-2071,Line item,46.60,48.80,0.00,0.00,2.20,4.70,5.20
+Pile driver operators,47-2072,Line item,3.60,3.80,0.00,0.00,0.20,4.40,0.40
+Operating engineers and other construction equipment operators,47-2073,Line item,418.00,434.90,0.30,0.30,16.90,4.00,43.90
+"Drywall installers, ceiling tile installers, and tapers",47-2080,Summary,146.90,146.60,0.10,0.10,-0.30,-0.20,11.80
+Drywall and ceiling tile installers,47-2081,Line item,125.10,125.60,0.10,0.10,0.50,0.40,10.10
+Tapers,47-2082,Line item,21.80,21.00,0.00,0.00,-0.90,-4.00,1.60
+Electricians,47-2111,Line item,739.20,801.40,0.50,0.50,62.20,8.40,82.20
+Glaziers,47-2121,Line item,52.80,54.80,0.00,0.00,2.10,3.90,5.40
+Insulation workers,47-2130,Summary,61.30,63.10,0.00,0.00,1.80,2.90,6.00
+"Insulation workers, floor, ceiling, and wall",47-2131,Line item,34.00,34.50,0.00,0.00,0.60,1.60,3.20
+"Insulation workers, mechanical",47-2132,Line item,27.30,28.60,0.00,0.00,1.20,4.50,2.70
+Painters and paperhangers,47-2140,Summary,385.00,385.90,0.20,0.20,0.80,0.20,32.80
+"Painters, construction and maintenance",47-2141,Line item,379.50,380.30,0.20,0.20,0.90,0.20,32.30
+Paperhangers,47-2142,Line item,5.60,5.50,0.00,0.00,0.00,-0.80,0.50
+"Pipelayers, plumbers, pipefitters, and steamfitters",47-2150,Summary,529.00,551.80,0.30,0.30,22.80,4.30,53.80
+Pipelayers,47-2151,Line item,38.90,40.70,0.00,0.00,1.80,4.70,4.00
+"Plumbers, pipefitters, and steamfitters",47-2152,Line item,490.20,511.10,0.30,0.30,20.90,4.30,49.80
+Plasterers and stucco masons,47-2161,Line item,27.70,28.80,0.00,0.00,1.10,4.10,2.30
+Reinforcing iron and rebar workers,47-2171,Line item,18.80,19.80,0.00,0.00,0.90,5.00,2.60
+Roofers,47-2181,Line item,161.60,165.40,0.10,0.10,3.80,2.40,14.70
+Sheet metal workers,47-2211,Line item,137.70,139.50,0.10,0.10,1.80,1.30,12.70
+Structural iron and steel workers,47-2221,Line item,77.00,80.60,0.00,0.00,3.60,4.70,8.10
+Solar photovoltaic installers,47-2231,Line item,12.00,18.10,0.00,0.00,6.10,50.50,2.30
+"Helpers, construction trades",47-3000,Summary,245.90,251.50,0.20,0.10,5.60,2.30,29.00
+"Helpers--brickmasons, blockmasons, stonemasons, and tile and marble setters",47-3011,Line item,23.40,22.30,0.00,0.00,-1.10,-4.70,2.50
+Helpers--carpenters,47-3012,Line item,33.20,33.70,0.00,0.00,0.40,1.30,3.90
+Helpers--electricians,47-3013,Line item,81.10,82.30,0.00,0.00,1.20,1.50,9.50
+"Helpers--painters, paperhangers, plasterers, and stucco masons",47-3014,Line item,11.00,11.20,0.00,0.00,0.20,1.90,1.30
+"Helpers--pipelayers, plumbers, pipefitters, and steamfitters",47-3015,Line item,59.30,62.60,0.00,0.00,3.30,5.60,7.30
+Helpers--roofers,47-3016,Line item,9.10,9.50,0.00,0.00,0.30,3.50,1.10
+"Helpers, construction trades, all other",47-3019,Line item,28.80,30.00,0.00,0.00,1.20,4.20,3.50
+Other construction and related workers,47-4000,Summary,464.00,487.10,0.30,0.30,23.10,5.00,50.90
+Construction and building inspectors,47-4011,Line item,120.80,124.60,0.10,0.10,3.90,3.20,13.50
+Elevator and escalator installers and repairers,47-4021,Line item,28.90,30.80,0.00,0.00,1.90,6.60,3.00
+Fence erectors,47-4031,Line item,34.20,35.00,0.00,0.00,0.80,2.20,3.40
+Hazardous materials removal workers,47-4041,Line item,45.30,49.00,0.00,0.00,3.70,8.20,5.60
+Highway maintenance workers,47-4051,Line item,156.10,163.80,0.10,0.10,7.80,5.00,16.50
+Rail-track laying and maintenance equipment operators,47-4061,Line item,13.90,14.40,0.00,0.00,0.50,3.40,1.40
+Septic tank servicers and sewer pipe cleaners,47-4071,Line item,30.70,33.80,0.00,0.00,3.10,10.10,3.50
+Miscellaneous construction and related workers,47-4090,Line item,34.10,35.60,0.00,0.00,1.50,4.30,4.00
+Extraction workers,47-5000,Summary,273.20,316.40,0.20,0.20,43.20,15.80,37.60
+"Derrick, rotary drill, and service unit operators, oil and gas",47-5010,Summary,84.70,105.80,0.10,0.10,21.10,25.00,13.60
+"Derrick operators, oil and gas",47-5011,Line item,12.00,15.70,0.00,0.00,3.70,30.50,2.00
+"Rotary drill operators, oil and gas",47-5012,Line item,20.90,26.60,0.00,0.00,5.60,26.90,3.40
+"Service unit operators, oil and gas",47-5013,Line item,51.70,63.60,0.00,0.00,11.80,22.90,8.10
+"Excavating and loading machine and dragline operators, surface mining",47-5022,Line item,46.10,47.40,0.00,0.00,1.30,2.90,5.10
+Continuous mining machine operators,47-5041,Line item,15.00,15.30,0.00,0.00,0.30,2.30,1.70
+"Roof bolters, mining",47-5043,Line item,3.30,2.80,0.00,0.00,-0.50,-16.00,0.30
+"Loading and moving machine operators, underground mining",47-5044,Line item,4.50,3.90,0.00,0.00,-0.60,-13.40,0.40
+"Rock splitters, quarry",47-5051,Line item,5.10,5.20,0.00,0.00,0.20,3.60,0.60
+"Roustabouts, oil and gas",47-5071,Line item,58.50,73.10,0.00,0.00,14.70,25.10,8.80
+Helpers--extraction workers,47-5081,Line item,16.90,20.30,0.00,0.00,3.40,20.20,2.40
+"Earth drillers, except oil and gas; and explosives workers, ordnance handling experts, and blasters",47-5097,Line item,25.30,27.30,0.00,0.00,2.00,7.80,3.00
+"Underground mining machine operators and extraction workers, all other",47-5098,Line item,14.10,15.40,0.00,0.00,1.30,9.30,1.80
+"Installation, maintenance, and repair occupations",49-0000,Summary,6128.00,6301.30,3.80,3.70,173.30,2.80,556.70
+"Supervisors of installation, maintenance, and repair workers",49-1000,Summary,499.10,512.40,0.30,0.30,13.30,2.70,42.10
+"First-line supervisors of mechanics, installers, and repairers",49-1011,Line item,499.10,512.40,0.30,0.30,13.30,2.70,42.10
+"Electrical and electronic equipment mechanics, installers, and repairers",49-2000,Summary,593.40,594.40,0.40,0.40,1.00,0.20,55.20
+"Computer, automated teller, and office machine repairers",49-2011,Line item,112.30,111.40,0.10,0.10,-0.90,-0.80,10.60
+Radio and telecommunications equipment installers and repairers,49-2020,Summary,230.70,225.60,0.10,0.10,-5.00,-2.20,22.50
+"Radio, cellular, and tower equipment installers and repairers",49-2021,Line item,15.00,15.50,0.00,0.00,0.60,3.70,1.60
+"Telecommunications equipment installers and repairers, except line installers",49-2022,Line item,215.70,210.10,0.10,0.10,-5.60,-2.60,20.90
+"Miscellaneous electrical and electronic equipment mechanics, installers, and repairers",49-2090,Summary,250.40,257.30,0.20,0.20,6.90,2.80,22.10
+Avionics technicians,49-2091,Line item,22.80,23.80,0.00,0.00,1.00,4.40,1.70
+"Electric motor, power tool, and related repairers",49-2092,Line item,17.90,18.60,0.00,0.00,0.70,4.10,1.90
+"Electrical and electronics installers and repairers, transportation equipment",49-2093,Line item,9.20,9.40,0.00,0.00,0.20,2.40,0.70
+"Electrical and electronics repairers, commercial and industrial equipment",49-2094,Line item,61.20,62.40,0.00,0.00,1.20,1.90,4.30
+"Electrical and electronics repairers, powerhouse, substation, and relay",49-2095,Line item,23.00,22.20,0.00,0.00,-0.70,-3.20,1.50
+"Electronic equipment installers and repairers, motor vehicles",49-2096,Line item,10.40,8.00,0.00,0.00,-2.40,-23.20,0.70
+Audiovisual equipment installers and repairers,49-2097,Line item,29.70,28.80,0.00,0.00,-0.80,-2.80,2.60
+Security and fire alarm systems installers,49-2098,Line item,76.30,84.10,0.00,0.00,7.80,10.30,8.80
+"Vehicle and mobile equipment mechanics, installers, and repairers",49-3000,Summary,1793.50,1793.00,1.10,1.10,-0.50,0.00,155.40
+Aircraft mechanics and service technicians,49-3011,Line item,137.20,143.50,0.10,0.10,6.30,4.60,11.20
+Automotive technicians and repairers,49-3020,Summary,936.30,912.80,0.60,0.50,-23.40,-2.50,77.50
+Automotive body and related repairers,49-3021,Line item,155.50,159.90,0.10,0.10,4.40,2.90,13.60
+Automotive glass installers and repairers,49-3022,Line item,24.30,24.20,0.00,0.00,-0.10,-0.40,2.20
+Automotive service technicians and mechanics,49-3023,Line item,756.60,728.80,0.50,0.40,-27.80,-3.70,61.70
+Bus and truck mechanics and diesel engine specialists,49-3031,Line item,281.30,290.80,0.20,0.20,9.60,3.40,24.50
+Heavy vehicle and mobile equipment service technicians and mechanics,49-3040,Summary,218.10,218.90,0.10,0.10,0.90,0.40,19.40
+Farm equipment mechanics and service technicians,49-3041,Line item,40.80,41.30,0.00,0.00,0.50,1.30,3.70
+"Mobile heavy equipment mechanics, except engines",49-3042,Line item,152.90,154.00,0.10,0.10,1.10,0.70,13.70
+Rail car repairers,49-3043,Line item,24.30,23.50,0.00,0.00,-0.80,-3.20,2.00
+Small engine mechanics,49-3050,Summary,78.10,80.30,0.00,0.00,2.20,2.80,7.70
+Motorboat mechanics and service technicians,49-3051,Line item,25.70,25.90,0.00,0.00,0.20,0.80,2.50
+Motorcycle mechanics,49-3052,Line item,17.40,18.00,0.00,0.00,0.60,3.50,1.70
+Outdoor power equipment and other small engine mechanics,49-3053,Line item,35.00,36.30,0.00,0.00,1.30,3.80,3.50
+"Miscellaneous vehicle and mobile equipment mechanics, installers, and repairers",49-3090,Summary,142.60,146.60,0.10,0.10,4.10,2.80,15.20
+Bicycle repairers,49-3091,Line item,13.20,13.80,0.00,0.00,0.60,4.90,1.40
+Recreational vehicle service technicians,49-3092,Line item,15.90,16.80,0.00,0.00,0.80,5.10,1.80
+Tire repairers and changers,49-3093,Line item,113.40,116.00,0.10,0.10,2.60,2.30,12.00
+"Other installation, maintenance, and repair occupations",49-9000,Summary,3242.10,3401.60,2.00,2.00,159.50,4.90,304.10
+Control and valve installers and repairers,49-9010,Summary,76.60,77.50,0.00,0.00,0.90,1.20,5.80
+Mechanical door repairers,49-9011,Line item,23.40,24.30,0.00,0.00,0.80,3.60,1.90
+"Control and valve installers and repairers, except mechanical door",49-9012,Line item,53.10,53.20,0.00,0.00,0.10,0.20,4.00
+"Heating, air conditioning, and refrigeration mechanics and installers",49-9021,Line item,376.80,391.90,0.20,0.20,15.10,4.00,34.20
+Home appliance repairers,49-9031,Line item,38.40,35.80,0.00,0.00,-2.70,-6.90,3.00
+"Industrial machinery installation, repair, and maintenance workers",49-9040,Summary,522.20,592.10,0.30,0.40,70.00,13.40,51.30
+Industrial machinery mechanics,49-9041,Line item,399.40,461.70,0.20,0.30,62.30,15.60,40.50
+"Maintenance workers, machinery",49-9043,Line item,73.20,77.70,0.00,0.00,4.50,6.10,6.40
+Millwrights,49-9044,Line item,48.70,52.10,0.00,0.00,3.40,6.90,4.30
+"Refractory materials repairers, except brickmasons",49-9045,Line item,0.80,0.70,0.00,0.00,-0.20,-19.30,0.00
+Line installers and repairers,49-9050,Summary,238.60,238.60,0.10,0.10,0.00,0.00,20.70
+Electrical power-line installers and repairers,49-9051,Line item,115.00,116.90,0.10,0.10,2.00,1.70,8.90
+Telecommunications line installers and repairers,49-9052,Line item,123.60,121.60,0.10,0.10,-2.00,-1.60,11.80
+Precision instrument and equipment repairers,49-9060,Summary,82.40,84.00,0.10,0.00,1.60,1.90,7.90
+Camera and photographic equipment repairers,49-9061,Line item,4.20,4.30,0.00,0.00,0.10,2.60,0.40
+Medical equipment repairers,49-9062,Line item,53.90,56.70,0.00,0.00,2.80,5.10,5.40
+Musical instrument repairers and tuners,49-9063,Line item,8.90,8.30,0.00,0.00,-0.60,-7.10,0.70
+Watch and clock repairers,49-9064,Line item,3.20,2.10,0.00,0.00,-1.00,-32.30,0.10
+"Precision instrument and equipment repairers, all other",49-9069,Line item,12.20,12.60,0.00,0.00,0.40,3.30,1.20
+"Maintenance and repair workers, general",49-9071,Line item,1516.40,1579.40,0.90,0.90,63.00,4.20,139.40
+Wind turbine service technicians,49-9081,Line item,7.00,11.30,0.00,0.00,4.30,60.70,1.30
+"Miscellaneous installation, maintenance, and repair workers",49-9090,Summary,383.80,391.20,0.20,0.20,7.30,1.90,40.40
+"Coin, vending, and amusement machine servicers and repairers",49-9091,Line item,37.00,36.30,0.00,0.00,-0.80,-2.00,3.90
+Commercial divers,49-9092,Line item,4.00,4.20,0.00,0.00,0.20,4.70,0.40
+Locksmiths and safe repairers,49-9094,Line item,21.10,19.50,0.00,0.00,-1.60,-7.50,1.70
+Manufactured building and mobile home installers,49-9095,Line item,2.90,2.20,0.00,0.00,-0.60,-22.30,0.10
+Riggers,49-9096,Line item,23.50,24.60,0.00,0.00,1.10,4.60,2.10
+Signal and track switch repairers,49-9097,Line item,6.60,6.50,0.00,0.00,0.00,-0.70,0.60
+"Helpers--installation, maintenance, and repair workers",49-9098,Line item,101.10,105.50,0.10,0.10,4.40,4.40,13.00
+"Installation, maintenance, and repair workers, all other",49-9099,Line item,187.70,192.40,0.10,0.10,4.70,2.50,18.50
+Production occupations,51-0000,Summary,9447.00,9023.80,5.80,5.30,-423.20,-4.50,886.30
+Supervisors of production workers,51-1000,Summary,648.90,646.90,0.40,0.40,-2.00,-0.30,56.90
+First-line supervisors of production and operating workers,51-1011,Line item,648.90,646.90,0.40,0.40,-2.00,-0.30,56.90
+Assemblers and fabricators,51-2000,Summary,1883.70,1679.40,1.20,1.00,-204.30,-10.80,156.30
+"Aircraft structure, surfaces, rigging, and systems assemblers",51-2011,Line item,43.90,36.30,0.00,0.00,-7.60,-17.40,2.60
+"Electrical, electronics, and electromechanical assemblers",51-2020,Summary,304.60,306.40,0.20,0.20,1.80,0.60,29.80
+"Coil winders, tapers, and finishers",51-2021,Line item,13.00,10.50,0.00,0.00,-2.40,-18.70,0.90
+"Electrical, electronic, and electromechanical assemblers, except coil winders, tapers, and finishers",51-2028,Line item,291.70,295.90,0.20,0.20,4.20,1.40,28.90
+Engine and other machine assemblers,51-2031,Line item,45.90,39.00,0.00,0.00,-7.00,-15.20,3.20
+Structural metal fabricators and fitters,51-2041,Line item,78.50,66.00,0.00,0.00,-12.50,-16.00,5.60
+Fiberglass laminators and fabricators,51-2051,Line item,20.40,19.30,0.00,0.00,-1.10,-5.30,1.90
+Timing device assemblers and adjusters,51-2061,Line item,1.30,1.00,0.00,0.00,-0.30,-22.30,0.10
+Miscellaneous assemblers and fabricators,51-2090,Line item,1389.10,1211.50,0.90,0.70,-177.60,-12.80,113.20
+Food processing workers,51-3000,Summary,832.80,853.00,0.50,0.50,20.20,2.40,98.10
+Bakers,51-3011,Line item,199.30,209.90,0.10,0.10,10.60,5.30,26.00
+"Butchers and other meat, poultry, and fish processing workers",51-3020,Summary,374.30,381.90,0.20,0.20,7.60,2.00,40.80
+Butchers and meat cutters,51-3021,Line item,137.50,139.80,0.10,0.10,2.30,1.70,14.90
+"Meat, poultry, and fish cutters and trimmers",51-3022,Line item,161.80,164.50,0.10,0.10,2.70,1.70,17.50
+Slaughterers and meat packers,51-3023,Line item,75.00,77.50,0.00,0.00,2.50,3.30,8.30
+Miscellaneous food processing workers,51-3090,Summary,259.20,261.30,0.20,0.20,2.10,0.80,31.30
+"Food and tobacco roasting, baking, and drying machine operators and tenders",51-3091,Line item,22.10,21.90,0.00,0.00,-0.20,-0.80,2.40
+Food batchmakers,51-3092,Line item,162.50,164.70,0.10,0.10,2.10,1.30,20.10
+Food cooking machine operators and tenders,51-3093,Line item,30.40,30.60,0.00,0.00,0.20,0.50,4.80
+"Food processing workers, all other",51-3099,Line item,44.20,44.10,0.00,0.00,-0.10,-0.10,4.00
+Metal workers and plastic workers,51-4000,Summary,1871.20,1823.20,1.10,1.10,-48.00,-2.60,165.80
+"Forming machine setters, operators, and tenders, metal and plastic",51-4020,Summary,126.40,111.10,0.10,0.10,-15.30,-12.10,10.00
+"Extruding and drawing machine setters, operators, and tenders, metal and plastic",51-4021,Line item,77.40,69.20,0.00,0.00,-8.20,-10.50,6.80
+"Forging machine setters, operators, and tenders, metal and plastic",51-4022,Line item,16.40,13.00,0.00,0.00,-3.50,-21.10,0.90
+"Rolling machine setters, operators, and tenders, metal and plastic",51-4023,Line item,32.60,28.90,0.00,0.00,-3.70,-11.30,2.30
+"Machine tool cutting setters, operators, and tenders, metal and plastic",51-4030,Summary,331.30,300.20,0.20,0.20,-31.10,-9.40,26.70
+"Cutting, punching, and press machine setters, operators, and tenders, metal and plastic",51-4031,Line item,195.70,179.40,0.10,0.10,-16.30,-8.30,16.00
+"Drilling and boring machine tool setters, operators, and tenders, metal and plastic",51-4032,Line item,11.20,9.10,0.00,0.00,-2.10,-19.00,0.70
+"Grinding, lapping, polishing, and buffing machine tool setters, operators, and tenders, metal and plastic",51-4033,Line item,77.10,70.80,0.00,0.00,-6.30,-8.20,6.80
+"Lathe and turning machine tool setters, operators, and tenders, metal and plastic",51-4034,Line item,28.20,25.30,0.00,0.00,-2.90,-10.10,2.00
+"Milling and planing machine setters, operators, and tenders, metal and plastic",51-4035,Line item,19.20,15.60,0.00,0.00,-3.60,-18.60,1.20
+Machinists,51-4041,Line item,388.10,404.40,0.20,0.20,16.30,4.20,38.00
+"Metal furnace operators, tenders, pourers, and casters",51-4050,Summary,25.10,24.40,0.00,0.00,-0.70,-2.80,2.00
+Metal-refining furnace operators and tenders,51-4051,Line item,17.10,17.10,0.00,0.00,0.00,0.00,1.40
+"Pourers and casters, metal",51-4052,Line item,8.00,7.30,0.00,0.00,-0.70,-8.60,0.60
+"Model makers and patternmakers, metal and plastic",51-4060,Summary,7.50,6.90,0.00,0.00,-0.60,-8.30,0.60
+"Model makers, metal and plastic",51-4061,Line item,4.40,4.10,0.00,0.00,-0.40,-8.20,0.30
+"Patternmakers, metal and plastic",51-4062,Line item,3.10,2.80,0.00,0.00,-0.30,-8.40,0.20
+"Molders and molding machine setters, operators, and tenders, metal and plastic",51-4070,Summary,191.00,173.20,0.10,0.10,-17.70,-9.30,14.00
+Foundry mold and coremakers,51-4071,Line item,17.60,16.50,0.00,0.00,-1.00,-5.80,1.40
+"Molding, coremaking, and casting machine setters, operators, and tenders, metal and plastic",51-4072,Line item,173.40,156.70,0.10,0.10,-16.70,-9.60,12.60
+"Multiple machine tool setters, operators, and tenders, metal and plastic",51-4081,Line item,150.50,153.60,0.10,0.10,3.10,2.10,14.00
+Tool and die makers,51-4111,Line item,72.50,68.60,0.00,0.00,-3.90,-5.40,6.00
+"Welding, soldering, and brazing workers",51-4120,Summary,476.10,487.20,0.30,0.30,11.10,2.30,46.60
+"Welders, cutters, solderers, and brazers",51-4121,Line item,438.90,452.50,0.30,0.30,13.60,3.10,43.40
+"Welding, soldering, and brazing machine setters, operators, and tenders",51-4122,Line item,37.20,34.70,0.00,0.00,-2.50,-6.80,3.10
+Miscellaneous metal workers and plastic workers,51-4190,Summary,102.60,93.50,0.10,0.10,-9.10,-8.90,7.90
+"Heat treating equipment setters, operators, and tenders, metal and plastic",51-4191,Line item,20.10,18.00,0.00,0.00,-2.10,-10.30,1.50
+"Layout workers, metal and plastic",51-4192,Line item,8.50,7.60,0.00,0.00,-0.90,-10.20,0.60
+"Plating machine setters, operators, and tenders, metal and plastic",51-4193,Line item,42.10,38.40,0.00,0.00,-3.70,-8.80,3.00
+"Tool grinders, filers, and sharpeners",51-4194,Line item,7.10,6.80,0.00,0.00,-0.30,-4.80,0.80
+"Metal workers and plastic workers, all other",51-4199,Line item,24.90,22.70,0.00,0.00,-2.10,-8.60,1.90
+Printing workers,51-5100,Summary,256.80,219.70,0.20,0.10,-37.10,-14.40,20.80
+Prepress technicians and workers,51-5111,Line item,30.20,24.00,0.00,0.00,-6.30,-20.70,2.50
+Printing press operators,51-5112,Line item,181.40,157.20,0.10,0.10,-24.20,-13.30,14.10
+Print binding and finishing workers,51-5113,Line item,45.20,38.50,0.00,0.00,-6.70,-14.80,4.30
+"Textile, apparel, and furnishings workers",51-6000,Summary,617.80,580.40,0.40,0.30,-37.40,-6.10,61.30
+Laundry and dry-cleaning workers,51-6011,Line item,215.20,215.60,0.10,0.10,0.50,0.20,25.60
+"Pressers, textile, garment, and related materials",51-6021,Line item,38.30,31.10,0.00,0.00,-7.20,-18.90,2.90
+Sewing machine operators,51-6031,Line item,146.50,132.80,0.10,0.10,-13.70,-9.30,12.70
+Shoe and leather workers,51-6040,Summary,16.20,14.30,0.00,0.00,-1.90,-11.70,1.50
+Shoe and leather workers and repairers,51-6041,Line item,10.80,9.70,0.00,0.00,-1.10,-10.30,1.00
+Shoe machine operators and tenders,51-6042,Line item,5.30,4.60,0.00,0.00,-0.80,-14.50,0.50
+"Tailors, dressmakers, and sewers",51-6050,Summary,44.80,42.60,0.00,0.00,-2.20,-4.90,5.10
+"Sewers, hand",51-6051,Line item,7.50,6.90,0.00,0.00,-0.60,-7.90,0.80
+"Tailors, dressmakers, and custom sewers",51-6052,Line item,37.30,35.70,0.00,0.00,-1.60,-4.30,4.30
+"Textile machine setters, operators, and tenders",51-6060,Summary,78.00,69.30,0.00,0.00,-8.60,-11.10,6.30
+Textile bleaching and dyeing machine operators and tenders,51-6061,Line item,9.00,7.90,0.00,0.00,-1.10,-11.90,0.90
+"Textile cutting machine setters, operators, and tenders",51-6062,Line item,13.10,11.80,0.00,0.00,-1.40,-10.50,0.90
+"Textile knitting and weaving machine setters, operators, and tenders",51-6063,Line item,24.80,21.60,0.00,0.00,-3.20,-12.80,2.40
+"Textile winding, twisting, and drawing out machine setters, operators, and tenders",51-6064,Line item,31.00,28.00,0.00,0.00,-3.00,-9.70,2.20
+"Miscellaneous textile, apparel, and furnishings workers",51-6090,Summary,79.00,74.70,0.00,0.00,-4.20,-5.30,7.20
+"Extruding and forming machine setters, operators, and tenders, synthetic and glass fibers",51-6091,Line item,19.00,17.80,0.00,0.00,-1.20,-6.40,2.00
+Fabric and apparel patternmakers,51-6092,Line item,6.00,5.40,0.00,0.00,-0.70,-11.40,0.60
+Upholsterers,51-6093,Line item,35.20,33.90,0.00,0.00,-1.40,-4.00,2.50
+"Textile, apparel, and furnishings workers, all other",51-6099,Line item,18.70,17.80,0.00,0.00,-0.90,-4.90,2.00
+Woodworkers,51-7000,Summary,277.20,267.10,0.20,0.20,-10.20,-3.70,26.70
+Cabinetmakers and bench carpenters,51-7011,Line item,112.20,108.90,0.10,0.10,-3.30,-2.90,9.30
+Furniture finishers,51-7021,Line item,17.40,16.70,0.00,0.00,-0.60,-3.70,1.70
+"Model makers and patternmakers, wood",51-7030,Summary,2.10,2.10,0.00,0.00,0.00,-1.70,0.20
+"Model makers, wood",51-7031,Line item,1.40,1.40,0.00,0.00,0.00,-0.20,0.10
+"Patternmakers, wood",51-7032,Line item,0.70,0.60,0.00,0.00,0.00,-4.70,0.10
+"Woodworking machine setters, operators, and tenders",51-7040,Summary,133.80,128.20,0.10,0.10,-5.60,-4.20,14.40
+"Sawing machine setters, operators, and tenders, wood",51-7041,Line item,54.50,50.80,0.00,0.00,-3.80,-6.90,5.00
+"Woodworking machine setters, operators, and tenders, except sawing",51-7042,Line item,79.30,77.40,0.00,0.00,-1.90,-2.40,9.30
+"Woodworkers, all other",51-7099,Line item,11.70,11.10,0.00,0.00,-0.50,-4.60,1.10
+Plant and system operators,51-8000,Summary,311.00,296.40,0.20,0.20,-14.60,-4.70,24.80
+"Power plant operators, distributors, and dispatchers",51-8010,Summary,51.70,43.70,0.00,0.00,-8.10,-15.60,3.10
+Nuclear power reactor operators,51-8011,Line item,5.30,3.40,0.00,0.00,-1.90,-35.70,0.20
+Power distributors and dispatchers,51-8012,Line item,11.20,10.30,0.00,0.00,-0.90,-7.70,0.80
+Power plant operators,51-8013,Line item,35.30,30.00,0.00,0.00,-5.30,-15.10,2.10
+Stationary engineers and boiler operators,51-8021,Line item,34.40,35.10,0.00,0.00,0.80,2.20,3.50
+Water and wastewater treatment plant and system operators,51-8031,Line item,126.40,121.00,0.10,0.10,-5.40,-4.20,9.20
+Miscellaneous plant and system operators,51-8090,Summary,98.50,96.50,0.10,0.10,-1.90,-2.00,8.90
+Chemical plant and system operators,51-8091,Line item,29.20,28.30,0.00,0.00,-0.90,-3.10,2.60
+Gas plant operators,51-8092,Line item,14.70,13.90,0.00,0.00,-0.80,-5.60,1.30
+"Petroleum pump system operators, refinery operators, and gaugers",51-8093,Line item,41.30,41.10,0.00,0.00,-0.20,-0.50,3.80
+"Plant and system operators, all other",51-8099,Line item,13.20,13.20,0.00,0.00,0.00,0.00,1.20
+Other production occupations,51-9000,Summary,2747.50,2657.70,1.70,1.60,-89.80,-3.30,275.70
+"Chemical processing machine setters, operators, and tenders",51-9010,Summary,141.60,144.90,0.10,0.10,3.30,2.40,14.10
+Chemical equipment operators and tenders,51-9011,Line item,88.50,90.00,0.10,0.10,1.50,1.70,8.70
+"Separating, filtering, clarifying, precipitating, and still machine setters, operators, and tenders",51-9012,Line item,53.10,54.90,0.00,0.00,1.90,3.50,5.40
+"Crushing, grinding, polishing, mixing, and blending workers",51-9020,Summary,192.30,186.20,0.10,0.10,-6.10,-3.20,18.70
+"Crushing, grinding, and polishing machine setters, operators, and tenders",51-9021,Line item,35.30,33.30,0.00,0.00,-2.00,-5.70,3.30
+"Grinding and polishing workers, hand",51-9022,Line item,29.00,23.40,0.00,0.00,-5.60,-19.50,2.10
+"Mixing and blending machine setters, operators, and tenders",51-9023,Line item,128.00,129.50,0.10,0.10,1.60,1.20,13.30
+Cutting workers,51-9030,Summary,69.70,63.90,0.00,0.00,-5.80,-8.30,6.30
+"Cutters and trimmers, hand",51-9031,Line item,9.80,6.90,0.00,0.00,-2.90,-29.90,0.60
+"Cutting and slicing machine setters, operators, and tenders",51-9032,Line item,59.80,57.00,0.00,0.00,-2.90,-4.80,5.70
+"Extruding, forming, pressing, and compacting machine setters, operators, and tenders",51-9041,Line item,72.40,70.10,0.00,0.00,-2.30,-3.10,6.80
+"Furnace, kiln, oven, drier, and kettle operators and tenders",51-9051,Line item,21.60,21.50,0.00,0.00,-0.20,-0.70,1.90
+"Inspectors, testers, sorters, samplers, and weighers",51-9061,Line item,590.10,489.60,0.40,0.30,-100.40,-17.00,48.30
+Jewelers and precious stone and metal workers,51-9071,Line item,35.10,31.60,0.00,0.00,-3.50,-10.00,3.60
+Dental and ophthalmic laboratory technicians and medical appliance technicians,51-9080,Summary,81.20,88.60,0.00,0.10,7.40,9.10,10.30
+Dental laboratory technicians,51-9081,Line item,36.20,39.60,0.00,0.00,3.40,9.40,4.60
+Medical appliance technicians,51-9082,Line item,14.80,16.50,0.00,0.00,1.70,11.50,1.90
+Ophthalmic laboratory technicians,51-9083,Line item,30.20,32.50,0.00,0.00,2.30,7.60,3.70
+Packaging and filling machine operators and tenders,51-9111,Line item,392.10,397.60,0.20,0.20,5.50,1.40,40.60
+Painting workers,51-9120,Summary,164.20,166.70,0.10,0.10,2.50,1.50,15.70
+"Painting, coating, and decorating workers",51-9123,Line item,12.80,12.70,0.00,0.00,-0.10,-0.50,1.20
+"Coating, painting, and spraying machine setters, operators, and tenders",51-9124,Line item,151.40,153.90,0.10,0.10,2.60,1.70,14.50
+Semiconductor processing technicians,51-9141,Line item,30.80,31.00,0.00,0.00,0.20,0.70,3.10
+Photographic process workers and processing machine operators,51-9151,Line item,12.30,9.90,0.00,0.00,-2.40,-19.40,1.30
+Computer numerically controlled tool operators and programmers,51-9160,Summary,178.20,173.00,0.10,0.10,-5.10,-2.90,14.80
+Computer numerically controlled tool operators,51-9161,Line item,152.40,141.70,0.10,0.10,-10.70,-7.00,11.80
+Computer numerically controlled tool programmers,51-9162,Line item,25.70,31.30,0.00,0.00,5.60,21.90,3.10
+Miscellaneous production workers,51-9190,Summary,766.10,783.10,0.50,0.50,17.00,2.20,90.10
+Adhesive bonding machine operators and tenders,51-9191,Line item,14.00,13.70,0.00,0.00,-0.20,-1.80,1.40
+"Cleaning, washing, and metal pickling equipment operators and tenders",51-9192,Line item,16.30,16.50,0.00,0.00,0.20,1.40,2.30
+Cooling and freezing equipment operators and tenders,51-9193,Line item,9.40,9.80,0.00,0.00,0.40,3.80,1.00
+Etchers and engravers,51-9194,Line item,12.90,12.30,0.00,0.00,-0.60,-4.60,1.30
+"Molders, shapers, and casters, except metal and plastic",51-9195,Line item,49.40,46.40,0.00,0.00,-3.00,-6.10,4.40
+"Paper goods machine setters, operators, and tenders",51-9196,Line item,100.40,94.60,0.10,0.10,-5.70,-5.70,9.00
+Tire builders,51-9197,Line item,21.00,21.10,0.00,0.00,0.10,0.50,1.90
+Helpers--production workers,51-9198,Line item,304.20,325.00,0.20,0.20,20.80,6.80,44.10
+"Production workers, all other",51-9199,Line item,238.60,243.70,0.10,0.10,5.10,2.10,24.70
+Transportation and material moving occupations,53-0000,Summary,13134.80,13583.60,8.10,8.00,448.90,3.40,1531.20
+Supervisors of transportation and material moving workers,53-1000,Summary,466.30,490.40,0.30,0.30,24.00,5.20,46.30
+Aircraft cargo handling supervisors,53-1041,Line item,9.60,10.20,0.00,0.00,0.50,5.40,1.00
+"First-line supervisors of transportation and material-moving workers, except aircraft cargo handling supervisors",53-1047,Line item,456.70,480.20,0.30,0.30,23.50,5.10,45.30
+Air transportation workers,53-2000,Summary,284.20,312.20,0.20,0.20,28.10,9.90,32.10
+Aircraft pilots and flight engineers,53-2010,Summary,127.10,133.30,0.10,0.10,6.10,4.80,12.70
+"Airline pilots, copilots, and flight engineers",53-2011,Line item,85.50,87.90,0.10,0.10,2.40,2.80,8.30
+Commercial pilots,53-2012,Line item,41.60,45.40,0.00,0.00,3.80,9.10,4.40
+Air traffic controllers and airfield operations specialists,53-2020,Summary,35.20,36.00,0.00,0.00,0.80,2.30,2.90
+Air traffic controllers,53-2021,Line item,24.30,24.50,0.00,0.00,0.10,0.50,2.00
+Airfield operations specialists,53-2022,Line item,10.90,11.50,0.00,0.00,0.70,6.10,1.00
+Flight attendants,53-2031,Line item,121.90,143.00,0.10,0.10,21.10,17.30,16.50
+Motor vehicle operators,53-3000,Summary,4689.20,4913.40,2.90,2.90,224.20,4.80,516.80
+"Ambulance drivers and attendants, except emergency medical technicians",53-3011,Line item,14.90,16.30,0.00,0.00,1.40,9.40,1.70
+Driver/sales workers and truck drivers,53-3030,Summary,3535.90,3641.50,2.20,2.20,105.60,3.00,372.30
+Driver/sales workers,53-3031,Line item,487.40,501.90,0.30,0.30,14.50,3.00,51.30
+Heavy and tractor-trailer truck drivers,53-3032,Line item,2029.90,2060.50,1.20,1.20,30.60,1.50,209.20
+Light truck drivers,53-3033,Line item,1018.60,1079.10,0.60,0.60,60.50,5.90,111.80
+Passenger vehicle drivers,53-3050,Summary,1076.70,1192.00,0.70,0.70,115.30,10.70,132.90
+"Bus drivers, transit and intercity",53-3052,Line item,223.40,244.20,0.10,0.10,20.80,9.30,28.90
+"Passenger vehicle drivers, except bus drivers, transit and intercity",53-3058,Line item,853.30,947.80,0.50,0.60,94.40,11.10,104.00
+"Motor vehicle operators, all other",53-3099,Line item,61.70,63.60,0.00,0.00,1.90,3.10,9.90
+Rail transportation workers,53-4000,Summary,90.90,88.80,0.10,0.10,-2.10,-2.30,7.10
+Locomotive engineers and operators,53-4010,Summary,32.60,31.30,0.00,0.00,-1.30,-4.00,2.30
+Locomotive engineers,53-4011,Line item,27.40,26.50,0.00,0.00,-1.00,-3.50,1.90
+"Rail yard engineers, dinkey operators, and hostlers",53-4013,Line item,5.20,4.90,0.00,0.00,-0.40,-6.80,0.30
+"Railroad brake, signal, and switch operators and locomotive firers",53-4022,Line item,9.10,8.60,0.00,0.00,-0.50,-5.50,0.70
+Railroad conductors and yardmasters,53-4031,Line item,36.00,35.20,0.00,0.00,-0.80,-2.10,2.90
+Subway and streetcar operators,53-4041,Line item,10.70,11.30,0.00,0.00,0.60,5.30,1.10
+"Rail transportation workers, all other",53-4099,Line item,2.50,2.40,0.00,0.00,-0.10,-4.70,0.20
+Water transportation workers,53-5000,Summary,81.90,82.10,0.10,0.00,0.20,0.20,8.10
+Sailors and marine oilers,53-5011,Line item,31.90,32.20,0.00,0.00,0.30,0.90,3.60
+Ship and boat captains and operators,53-5020,Summary,41.40,41.20,0.00,0.00,-0.10,-0.30,3.50
+"Captains, mates, and pilots of water vessels",53-5021,Line item,38.90,38.70,0.00,0.00,-0.10,-0.30,3.30
+Motorboat operators,53-5022,Line item,2.50,2.50,0.00,0.00,0.00,0.10,0.20
+Ship engineers,53-5031,Line item,8.70,8.70,0.00,0.00,0.10,0.70,1.00
+Other transportation workers,53-6000,Summary,373.50,391.20,0.20,0.20,17.70,4.70,50.30
+Bridge and lock tenders,53-6011,Line item,3.30,3.30,0.00,0.00,0.00,1.30,0.30
+Parking attendants,53-6021,Line item,149.80,160.60,0.10,0.10,10.90,7.20,22.80
+Automotive and watercraft service attendants,53-6031,Line item,118.80,121.60,0.10,0.10,2.80,2.40,16.30
+Traffic technicians,53-6041,Line item,7.70,8.20,0.00,0.00,0.50,6.00,0.80
+Transportation inspectors,53-6051,Line item,30.20,30.90,0.00,0.00,0.70,2.40,2.90
+Passenger attendants,53-6061,Line item,28.00,29.20,0.00,0.00,1.20,4.40,3.70
+"Aircraft service attendants and transportation workers, all other",53-6098,Line item,35.80,37.40,0.00,0.00,1.60,4.40,3.50
+Material moving workers,53-7000,Summary,7148.70,7305.50,4.40,4.30,156.80,2.20,870.50
+Conveyor operators and tenders,53-7011,Line item,23.90,24.00,0.00,0.00,0.10,0.40,2.70
+Crane and tower operators,53-7021,Line item,45.70,46.50,0.00,0.00,0.80,1.70,4.50
+Dredge operators,53-7031,Line item,1.60,1.70,0.00,0.00,0.10,4.50,0.20
+Hoist and winch operators,53-7041,Line item,4.90,4.60,0.00,0.00,-0.20,-5.00,0.50
+Industrial truck and tractor operators,53-7051,Line item,634.70,652.30,0.40,0.40,17.50,2.80,64.30
+Laborers and material movers,53-7060,Summary,6233.80,6358.90,3.80,3.80,125.10,2.00,772.20
+Cleaners of vehicles and equipment,53-7061,Line item,408.40,423.10,0.30,0.30,14.70,3.60,53.90
+"Laborers and freight, stock, and material movers, hand",53-7062,Line item,2986.00,3111.70,1.80,1.80,125.70,4.20,380.60
+Machine feeders and offbearers,53-7063,Line item,62.90,63.00,0.00,0.00,0.10,0.20,7.00
+"Packers and packagers, hand",53-7064,Line item,640.80,609.90,0.40,0.40,-30.90,-4.80,75.80
+Stockers and order fillers,53-7065,Line item,2135.80,2151.30,1.30,1.30,15.50,0.70,254.90
+Pumping station operators,53-7070,Summary,28.30,29.80,0.00,0.00,1.50,5.40,3.10
+Gas compressor and gas pumping station operators,53-7071,Line item,3.70,3.60,0.00,0.00,-0.10,-2.10,0.40
+"Pump operators, except wellhead pumpers",53-7072,Line item,10.50,11.50,0.00,0.00,1.00,9.70,1.20
+Wellhead pumpers,53-7073,Line item,14.10,14.70,0.00,0.00,0.60,4.20,1.50
+Refuse and recyclable material collectors,53-7081,Line item,133.60,145.40,0.10,0.10,11.70,8.80,18.20
+"Tank car, truck, and ship loaders",53-7121,Line item,12.20,12.00,0.00,0.00,-0.20,-1.70,1.30
+"Material moving workers, all other",53-7199,Line item,29.80,30.30,0.00,0.00,0.50,1.50,3.30
+,,,,,,,,,

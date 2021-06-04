@@ -1,1 +1,1 @@
-web:gunicorn app:Occudocs
+web:gunicorn Occudocs:app
