@@ -24,6 +24,6 @@ layout = go.Layout(title='Percentage vs Numeric Change of Jobs',
 fig = go.Figure(data=data,layout=layout)
 
 app.layout = html.Div([
-    #dcc.Dropdown(id='Category',options=categories,value=categories[0]),
+    # dcc.Dropdown(id='Category',options=categories,value=categories[0]),
     dcc.Graph(id='graph', figure=fig)
 ])
