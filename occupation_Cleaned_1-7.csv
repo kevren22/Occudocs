@@ -349,19 +349,19 @@ Set and exhibit designers,27-1027,Line item,15.20,15.40,0.20,1.20,20.20,1.30,546
 "Designers, all other",27-1029,Line item,13.60,13.40,-0.30,-1.90,21.70,1.10,64620.00,Bachelor's degree,None,None
 "Entertainers and performers, sports and related workers",27-2000,Summary,841.80,902.40,60.60,7.20,21.40,104.70,45250.00,—,—,—
 "Actors, producers, and directors",27-2010,Summary,229.60,247.70,18.10,7.90,19.00,22.30,63110.00,—,—,—
-Actors,27-2011,Line item,70.10,72.20,2.10,3.10,23.90,7.10,—,"Some college, no degree",None,Long-term on-the-job training
+Actors,27-2011,Line item,70.10,72.20,2.10,3.10,23.90,7.10,,"Some college, no degree",None,Long-term on-the-job training
 Producers and directors,27-2012,Line item,159.50,175.50,16.00,10.00,16.90,15.20,74420.00,Bachelor's degree,Less than 5 years,None
 "Athletes, coaches, umpires, and related workers",27-2020,Summary,328.40,366.00,37.50,11.40,10.20,50.70,34680.00,—,—,—
 Athletes and sports competitors,27-2021,Line item,13.60,15.00,1.40,10.00,14.20,2.10,51370.00,No formal educational credential,None,Long-term on-the-job training
 Coaches and scouts,27-2022,Line item,292.00,326.40,34.30,11.80,10.20,45.30,34840.00,Bachelor's degree,None,None
 "Umpires, referees, and other sports officials",27-2023,Line item,22.80,24.60,1.80,8.00,8.10,3.40,28550.00,High school diploma or equivalent,None,Moderate-term on-the-job training
 Dancers and choreographers,27-2030,Summary,16.90,18.00,1.00,6.10,15.00,2.80,38850.00,—,—,—
-Dancers,27-2031,Line item,11.40,11.70,0.30,2.30,15.00,1.80,—,No formal educational credential,None,Long-term on-the-job training
+Dancers,27-2031,Line item,11.40,11.70,0.30,2.30,15.00,1.80,,No formal educational credential,None,Long-term on-the-job training
 Choreographers,27-2032,Line item,5.50,6.30,0.80,14.00,14.90,1.00,46330.00,High school diploma or equivalent,5 years or more,Long-term on-the-job training
-"Musicians, singers, and related workers",27-2040,Summary,233.60,236.10,2.60,1.10,35.70,25.30,—,—,—,—
+"Musicians, singers, and related workers",27-2040,Summary,233.60,236.10,2.60,1.10,35.70,25.30,,—,—,—
 Music directors and composers,27-2041,Line item,58.00,59.00,1.00,1.70,27.80,6.30,51670.00,Bachelor's degree,Less than 5 years,None
-Musicians and singers,27-2042,Line item,175.60,177.20,1.60,0.90,38.30,19.00,—,No formal educational credential,None,Long-term on-the-job training
-"Miscellaneous entertainers and performers, sports and related workers",27-2090,Line item,33.30,34.60,1.40,4.20,51.30,3.60,—,No formal educational credential,None,Short-term on-the-job training
+Musicians and singers,27-2042,Line item,175.60,177.20,1.60,0.90,38.30,19.00,,No formal educational credential,None,Long-term on-the-job training
+"Miscellaneous entertainers and performers, sports and related workers",27-2090,Line item,33.30,34.60,1.40,4.20,51.30,3.60,,No formal educational credential,None,Short-term on-the-job training
 Media and communication workers,27-3000,Summary,804.00,828.00,24.00,3.00,19.30,76.10,59230.00,—,—,—
 Broadcast announcers and radio disc jockeys,27-3011,Line item,40.80,38.70,-2.10,-5.30,28.20,3.70,34630.00,Bachelor's degree,None,None
 "News analysts, reporters, and journalists",27-3023,Line item,52.00,46.20,-5.80,-11.20,15.90,4.30,46270.00,Bachelor's degree,None,None
@@ -695,8 +695,8 @@ Agricultural equipment operators,45-2091,Line item,70.30,78.30,8.00,11.40,0.60,1
 "Farmworkers and laborers, crop, nursery, and greenhouse",45-2092,Line item,566.50,587.90,21.40,3.80,0.80,85.80,25440.00,No formal educational credential,None,Short-term on-the-job training
 "Farmworkers, farm, ranch, and aquacultural animals",45-2093,Line item,245.40,225.10,-20.30,-8.30,0.20,32.10,27830.00,No formal educational credential,None,Short-term on-the-job training
 "Agricultural workers, all other",45-2099,Line item,12.30,12.70,0.40,2.90,0.70,1.80,29590.00,No formal educational credential,None,Short-term on-the-job training
-Fishing and hunting workers,45-3000,Summary,36.70,33.90,-2.80,-7.70,33.80,4.60,—,—,—,—
-Fishing and hunting workers,45-3031,Line item,36.70,33.90,-2.80,-7.70,33.80,4.60,—,No formal educational credential,None,Moderate-term on-the-job training
+Fishing and hunting workers,45-3000,Summary,36.70,33.90,-2.80,-7.70,33.80,4.60,,—,—,—
+Fishing and hunting workers,45-3031,Line item,36.70,33.90,-2.80,-7.70,33.80,4.60,,No formal educational credential,None,Moderate-term on-the-job training
 "Forest, conservation, and logging workers",45-4000,Summary,70.10,62.60,-7.60,-10.80,25.40,8.50,39090.00,—,—,—
 Forest and conservation workers,45-4011,Line item,13.20,13.10,-0.10,-0.50,20.20,1.80,31770.00,High school diploma or equivalent,None,Moderate-term on-the-job training
 Logging workers,45-4020,Summary,56.90,49.40,-7.50,-13.20,26.60,6.70,41230.00,—,—,—
