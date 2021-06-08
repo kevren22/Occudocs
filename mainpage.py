@@ -23,23 +23,25 @@ layout = go.Layout(title='Percentage vs Numeric Change of Jobs',
 
 fig = go.Figure(data=data,layout=layout)
 
+categories_keys = []
+for item in categories.keys():
+    categories_keys.append({'label': item, 'value': item})
+
 app.layout = html.Div([
-    dcc.Dropdown(id='Category',options=categories,value=categories['Front Line Heroes']),
+    dcc.Dropdown(id='Category',options=categories_keys),
     dcc.Graph(id='graph', figure=fig)
 ])
 
 @app.callback(Output('graph', 'figure'),
               [Input('Category', 'value')])
 def update_category(selected_category):
-    x = []
-    y = []
-    for job in selected_category:
-        x.append(dfgraph[dfgraph['Title'] == 'job']['ChgNum'])
-        y.append(dfgraph[dfgraph['Title'] == 'job']['ChgNum'])
-    new_data = go.Scatter(x=x, y=y, mode='markers',
-                  text=dfgraph['Title'],
-                  marker=dict(color=dfgraph['MedWage'].astype(float),colorscale='Jet',
-                              cmin=0, cmid=90000, showscale=True))
+    newdf = pd.DataFrame()
+    for job in categories[selected_category]:    
+        newdf = newdf.append(dfgraph[dfgraph['Title'] == job])
+    new_data = go.Scatter(x=newdf['ChgNum'], y=newdf['ChgPct'], mode='markers',
+                  text=newdf['Title'],
+                  marker=dict(color=newdf['MedWage'].astype(float),
+                            colorscale='Jet', cmin=0, cmid=90000, showscale=True))
     new_layout = go.Layout(title='Percentage vs Numeric Change of Jobs',
                    xaxis = {'title':'Change in Number of Jobs (in thousands)'},
                    yaxis = {'title':'Change in Percentage of Jobs'}
