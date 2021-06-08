@@ -45,3 +45,4 @@ def update_category(selected_category):
                    yaxis = {'title':'Change in Percentage of Jobs'}
                    )
     figure = go.Figure(data=new_data,layout=new_layout)
+    return figure
