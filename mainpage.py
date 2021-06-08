@@ -31,9 +31,14 @@ app.layout = html.Div([
 @app.callback(Output('graph', 'figure'),
               [Input('Category', 'value')])
 def update_category(selected_category):
-    new_data = go.Scatter(x=dfgraph['ChgNum'][1:],y=dfgraph['ChgPct'][1:],mode='markers',
-                  text=dfgraph['Title'][1:],
-                  marker=dict(color=dfgraph['MedWage'][1:].astype(float),colorscale='Jet',
+    x = []
+    y = []
+    for job in selected_category:
+        x.append(dfgraph[dfgraph['Title'] == 'job']['ChgNum'])
+        y.append(dfgraph[dfgraph['Title'] == 'job']['ChgNum'])
+    new_data = go.Scatter(x=x, y=y, mode='markers',
+                  text=dfgraph['Title'],
+                  marker=dict(color=dfgraph['MedWage'].astype(float),colorscale='Jet',
                               cmin=0, cmid=90000, showscale=True))
     new_layout = go.Layout(title='Percentage vs Numeric Change of Jobs',
                    xaxis = {'title':'Change in Number of Jobs (in thousands)'},
