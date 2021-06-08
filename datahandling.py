@@ -9,5 +9,3 @@ categories = {
                          'Conservation scientists', 'Epidemiologists'],
     '':[]
 }
-
-print(dfgraph)

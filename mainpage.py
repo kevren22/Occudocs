@@ -12,9 +12,9 @@ BS = 'https://cdn.jsdelivr.net/npm/bootswatch@4.5.2/dist/darkly/bootstrap.min.cs
 app = Dash(__name__, external_stylesheets=[BS])
 server = app.server
 
-data = go.Scatter(x=dfgraph['ChgNum'][1:],y=dfgraph['ChgPct'][1:],mode='markers',
-                  text=dfgraph['Title'][1:],
-                  marker=dict(color=dfgraph['MedWage'][1:].astype(float),colorscale='Jet',
+data = go.Scatter(x=dfgraph['ChgNum'],y=dfgraph['ChgPct'],mode='markers',
+                  text=dfgraph['Title'],
+                  marker=dict(color=dfgraph['MedWage'].astype(float),colorscale='Jet',
                               cmin=0, cmid=90000, showscale=True))
 layout = go.Layout(title='Percentage vs Numeric Change of Jobs',
                    xaxis = {'title':'Change in Number of Jobs (in thousands)'},
@@ -24,7 +24,7 @@ layout = go.Layout(title='Percentage vs Numeric Change of Jobs',
 fig = go.Figure(data=data,layout=layout)
 
 app.layout = html.Div([
-    dcc.Dropdown(id='Category',options=categories,value=categories[0]),
+    dcc.Dropdown(id='Category',options=categories,value=categories['Front Line Heroes']),
     dcc.Graph(id='graph', figure=fig)
 ])
 
@@ -46,3 +46,6 @@ def update_category(selected_category):
                    )
     figure = go.Figure(data=new_data,layout=new_layout)
     return figure
+
+if __name__ == '__main__':
+    app.run_server()
