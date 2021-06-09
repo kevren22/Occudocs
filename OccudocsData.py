@@ -7,7 +7,6 @@ import pandas as pd
 import plotly.graph_objs as go
 
 app = dash.Dash()
-server = app.server
 
 df1 = pd.read_csv('occupation_Cleaned_1-2.csv').dropna()
 df2 = pd.read_csv('occupation_Cleaned_1-7.csv').dropna()

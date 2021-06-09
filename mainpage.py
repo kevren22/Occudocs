@@ -10,7 +10,6 @@ from datahandling import dfgraph, categories
 BS = 'https://cdn.jsdelivr.net/npm/bootswatch@4.5.2/dist/darkly/bootstrap.min.css'
 
 app = Dash(__name__, external_stylesheets=[BS])
-server = app.server
 
 data = go.Scatter(x=dfgraph['ChgNum'],y=dfgraph['ChgPct'],mode='markers',
                   text=dfgraph['Title'],
