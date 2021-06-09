@@ -21,7 +21,19 @@ layout = go.Layout(title='Percentage vs Numeric Change of Jobs',
                    yaxis = {'title':'Change in Percentage of Jobs'}
                    )
 
+colors = {
+    'background': '#111111',
+    'pltbkgd': '#333333',
+    'text': '#FFD700'
+}
+
 fig = go.Figure(data=data,layout=layout)
+
+fig.update_layout(
+    plot_bgcolor=colors['pltbkgd'],
+    paper_bgcolor=colors['background'],
+    font_color=colors['text']
+)
 
 categories_keys = []
 for item in categories.keys():
@@ -42,12 +54,17 @@ def update_category(selected_category):
     new_data = go.Scatter(x=newdf['ChgNum'], y=newdf['ChgPct'], mode='markers',
                   text=newdf['Title'],
                   marker=dict(color=newdf['MedWage'].astype(float),
-                            colorscale='Jet', cmin=0, cmid=90000, showscale=True))
+                            colorscale='Jet', cmin=0, cmid=90000, showscale=True, size=10))
     new_layout = go.Layout(title='Percentage vs Numeric Change of Jobs',
                    xaxis = {'title':'Change in Number of Jobs (in thousands)'},
                    yaxis = {'title':'Change in Percentage of Jobs'}
                    )
     figure = go.Figure(data=new_data,layout=new_layout)
+    figure.update_layout(
+    plot_bgcolor=colors['pltbkgd'],
+    paper_bgcolor=colors['background'],
+    font_color=colors['text']
+    )
     return figure
 
 if __name__ == '__main__':
