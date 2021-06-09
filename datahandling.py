@@ -22,5 +22,13 @@ categories = {
                                'Plumbers, pipefitters, and steamfitters', 'Miscellaneous assemblers and fabricators'],
     'Taking Care of Business':['Accountants and auditors', 'Credit analysts', 'Insurance underwriters',
                                'Actuaries', 'Payroll and timekeeping clerks', 'Real estate brokers and sales agents',
-                               'Lawyers', 'Sales representatives, wholesale and manufacturing']
+                               'Lawyers', 'Sales representatives, wholesale and manufacturing'],
+    'I Love Working Outside':['Tour and travel guides', 'Electricians', 'Farmworkers, farm, ranch, and aquacultural animals',
+                              'Roofers', 'Solar photovoltaic installers', 'Brickmasons, blockmasons, and stonemasons',
+                              'Wind turbine service technicians', 'Landscaping and groundskeeping workers'],
+    'How Fast Can We Go?':['Airline pilots, copilots, and flight engineers', 'Commercial pilots', 'Heavy and tractor-trailer truck drivers',
+                           'Locomotive engineers', 'Motorboat operators'],
+    'All Kinds of Farmers':['Animal breeders', 'Agricultural equipment operators', 'Farmworkers and laborers, crop, nursery, and greenhouse',
+                            'Farmworkers, farm, ranch, and aquacultural animals', 'Farm equipment mechanics and service technicians',
+                            'Farmers, ranchers, and other agricultural managers']
 }

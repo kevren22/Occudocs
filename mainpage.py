@@ -5,7 +5,7 @@ from dash.dependencies import Input, Output, State
 import pandas as pd
 import plotly.graph_objects as go
 import plotly.express as px 
-from datahandling import df2, dfgraph, categories
+from datahandling import dfgraph, categories
 
 BS = 'https://cdn.jsdelivr.net/npm/bootswatch@4.5.2/dist/darkly/bootstrap.min.css'
 
@@ -40,7 +40,7 @@ for item in categories.keys():
     categories_keys.append({'label': item, 'value': item})
 
 app.layout = html.Div([
-    dcc.Dropdown(id='Category',options=categories_keys, placeholder='Select a Category',
+    dcc.Dropdown(id='Category',options=categories_keys, placeholder='Select a Category:',
                  style={'color':'black'}),
     dcc.Graph(id='graph', figure=fig)
 ])
@@ -60,6 +60,7 @@ def update_category(selected_category):
                    yaxis = {'title':'Change in Percentage of Jobs'}
                    )
     figure = go.Figure(data=new_data,layout=new_layout)
+
     figure.update_layout(
     plot_bgcolor=colors['pltbkgd'],
     paper_bgcolor=colors['background'],
