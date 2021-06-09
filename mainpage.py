@@ -28,7 +28,8 @@ for item in categories.keys():
     categories_keys.append({'label': item, 'value': item})
 
 app.layout = html.Div([
-    dcc.Dropdown(id='Category',options=categories_keys),
+    dcc.Dropdown(id='Category',options=categories_keys, placeholder='Select a Category',
+                 style={'color':'black'}),
     dcc.Graph(id='graph', figure=fig)
 ])
 
